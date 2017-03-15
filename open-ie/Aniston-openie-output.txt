@@ -1,0 +1,1564 @@
+1.0	Aniston	is	American
+1.0	She	is daughter of	actor John Aniston
+1.0	She	is daughter of	Greek-born actor John Aniston
+1.0	She	is	daughter
+0.8964965295033437	recognition	portraying	Rachel Green
+0.8964965295033437	worldwide recognition	portraying Rachel Green on	popular television sitcom Friends
+0.8964965295033437	recognition	portraying Rachel Green on	popular television sitcom Friends
+0.8964965295033437	worldwide recognition	portraying	Rachel Green
+0.8964965295033437	recognition	portraying Rachel Green on	television sitcom Friends
+0.8964965295033437	worldwide recognition	portraying Rachel Green on	television sitcom Friends
+1.0	character	was widely popular during	airing
+1.0	character	was	recognized
+1.0	character	was widely popular during	airing of series
+1.0	character	was popular during	airing
+1.0	character	was	widely popular
+1.0	character	was	popular
+1.0	100 greatest female characters	is in	United States television
+1.0	character	was popular during	airing of series
+1.0	character	was	later recognized
+1.0	Aniston	has played	female protagonist
+1.0	Aniston	has played	protagonist
+1.0	each	have grossed	over US$ 200 million in worldwide receipts
+1.0	each	have grossed	US$ 200 million
+1.0	each	have grossed	over US$ 200 million
+1.0	each	have grossed	over US$ 200 million in receipts
+1.0	each	have grossed	US$ 200 million in worldwide receipts
+1.0	each	have grossed	US$ 200 million in receipts
+1.0	she	was nominated for	Independent Spirit Award
+1.0	she	was nominated for	Independent Spirit Award for Best Lead
+1.0	she	received nominations for	Golden Globe Award
+1.0	she	was nominated for	Independent Spirit Award for Lead
+1.0	she	was	nominated
+1.0	role	is with	Money
+1.0	she	received	nominations
+1.0	she	received nominations for	Golden Globe Award for Best Actress
+1.0	she	was nominated for	Independent Spirit Award for Best Female Lead
+1.0	she	received nominations for	Golden Globe Award for Actress
+1.0	she	was nominated for	Independent Spirit Award for Female Lead
+1.0	role	is in	Friends
+1.0	Her films	include Along	2004
+1.0	Her films	include Along	Came Polly
+1.0	Her other films	include Along	2004
+1.0	Her other films	include Along	Came Polly
+1.0	she	co-founded production company Echo Films In	2008
+1.0	she	co-founded	production company Echo Films
+1.0	Aniston	received star In	2012
+1.0	Aniston	received	star
+1.0	Aniston	received star on	Hollywood
+1.0	Aniston	received star on	Hollywood Walk of Fame
+1.0	Aniston	received star on	Hollywood Walk
+1.0	highest paid actresses	is in	Hollywood
+1.0	She	has	has included
+1.0	She	has	has also included in magazines ' lists of world 's most beautiful women
+1.0	She	has	has also included in magazines ' lists
+1.0	She	has	has also included in magazines ' lists of world 's beautiful women
+1.0	She	has	has also included in magazines ' lists of world 's women
+1.0	She	has	has also included
+1.0	She	has	has included in magazines ' lists of world 's women
+1.0	She	has	has included in magazines ' lists of world 's most beautiful women
+1.0	She	has	has included in magazines ' lists of world 's beautiful women
+1.0	world	of	most beautiful women
+1.0	She	has	has included in magazines ' lists
+1.0	People magazine	named	Aniston Most Beautiful Woman
+1.0	Sexiest Woman	is in	2011
+1.0	Men 's Health magazine	voted	Woman of Time in 2011
+1.0	Men 's Health magazine	voted	Woman of Time
+1.0	Men	has	Health magazine
+1.0	Men 's Health magazine	voted	Sexiest Woman of Time in 2011
+1.0	People magazine	named	Aniston Beautiful Woman
+1.0	Men 's Health magazine	voted	Sexiest Woman of Time
+0.793227277955847	she	was	to whom married
+1.0	she	Divorced from	actor Brad Pitt
+1.0	she	has	has married
+1.0	she	has	has married since 2015
+1.0	she	has	has married to actor Justin Theroux
+1.0	she	has	has married to actor Justin Theroux since 2015
+0.793227277955847	she	was married for	five years
+0.793227277955847	she	was	to whom married for five years
+0.793227277955847	she	was	married
+1.0	Aniston	was born in	California
+1.0	Aniston	was born in	daughter of actor John Aniston
+1.0	Aniston	was born in	Sherman Oaks
+1.0	Sherman Oaks	daughter of	actor John Aniston
+1.0	Aniston	was	born
+1.0	Aniston	was born in	daughter
+1.0	Her father	is Greek	born in New York City
+1.0	Her father	is	Greek
+1.0	her mother	was	born
+1.0	Her father	is Greek	born
+1.0	her mother	was born in	New York City
+1.0	her mother 's ancestry	includes	English
+0.9482679900435184	her mother 's ancestry	small amount of	Greek
+1.0	her mother 's other ancestry	includes	Irish
+1.0	One	was	Italian
+1.0	mother	has	other ancestry
+1.0	her mother 's other ancestry	includes	English
+1.0	her mother 's ancestry	includes	small amount of Greek
+1.0	her mother 's ancestry	includes	Scottish
+1.0	her mother 's other ancestry	includes	small amount of Greek
+0.9482679900435184	her mother 's ancestry	amount of	Greek
+1.0	her mother 's other ancestry	includes	amount of Greek
+1.0	her mother 's other ancestry	includes	amount
+1.0	her mother 's ancestry	includes	Irish
+1.0	her mother 's ancestry	includes	amount
+1.0	her mother 's other ancestry	includes	Scottish
+1.0	her mother 's ancestry	includes	amount of Greek
+0.9482679900435184	her mother 's other ancestry	small amount of	Greek
+1.0	her mother 's ancestry	includes	small amount
+1.0	her mother 's other ancestry	includes	small amount
+0.9482679900435184	her mother 's other ancestry	amount of	Greek
+1.0	Aniston	has	two half-brothers
+1.0	father	of	best friends
+1.0	Aniston 's godfather	was	actor Telly Savalas
+1.0	Aniston	has	godfather
+1.0	actor Telly Savalas	one of	her father 's best friends
+1.0	Aniston	lived As	child
+1.0	year	is with	her family
+1.0	Aniston	lived in	Greece
+1.0	Aniston	lived for	year with her family
+1.0	Aniston	lived for	year
+1.0	they	lived in	home
+1.0	They	moved to	Eddystone
+1.0	they	lived with	her grandmother Stella Anastassakis
+1.0	They	moved to	Pennsylvania
+1.0	they	lived in	three-bedroom home
+1.0	Aniston	living in	Eddystone
+1.0	Aniston	was enrolled	living
+1.0	Aniston	was	enrolled
+1.0	Aniston	was enrolled at	school
+1.0	Aniston	was enrolled at	local elementary school
+1.0	Aniston	was enrolled	living in Eddystone
+1.0	Aniston	was enrolled at	local school
+1.0	Aniston	was enrolled at	elementary school
+1.0	She	later moved to	New York City
+1.0	her family	later moved to	New York City
+1.0	her family	moved to	New York City
+1.0	She	moved to	New York City
+1.0	Aniston	was	discouraged
+1.0	Aniston	watching	TV
+0.5805524895802554	she	ways around	prohibition
+1.0	she	found	ways
+1.0	Aniston	was discouraged Despite	her father 's television career
+1.0	father	Despite	television career
+1.0	she	found	ways around prohibition
+1.0	she	attending	Waldorf school
+1.0	she	was	old
+1.0	she	was	when nine years old
+1.0	she	was old	nine years
+1.0	she	was	when old
+1.0	Her father	is	known
+1.0	Her father	is known for	his role as Victor Kiriakis on NBC daytime drama Days
+1.0	Her father	is known for	his role
+1.0	Her father	is known for	his role as Victor Kiriakis
+1.0	Her father	is best known for	his role on NBC drama Days
+1.0	Her father	is known for	his role on NBC daytime drama Days
+1.0	Her father	is known for	his role on NBC drama Days
+1.0	Her father	is best known for	his role
+1.0	Her father	is best known for	his role on NBC daytime drama Days
+1.0	Her father	is best known for	his role as Victor Kiriakis on NBC daytime drama Days
+1.0	Her father	is known for	his role as Victor Kiriakis on NBC drama Days
+1.0	he	originated in	1985
+1.0	Her father	is best known for	his role as Victor Kiriakis on NBC drama Days
+1.0	Her father	is	best known
+1.0	Her father	is best known for	his role as Victor Kiriakis
+1.0	Her mother	appeared in	two 1960s TV series
+1.0	Her mother	appeared in	Wild Wild West
+1.0	Aniston	discovered	acting
+1.0	Aniston	discovered	acting at Waldorf school
+1.0	Manhattan	from	Fiorello H. LaGuardia High School of Music
+1.0	Aniston	discovered	acting at age 11
+1.0	school	has	drama society
+1.0	Aniston	discovered	acting at age 11 at Waldorf school
+1.0	she	spoke In	2015
+1.0	I	basically have	real fear going
+1.0	I	have	fear going
+1.0	She	stated during	event
+1.0	She	stated during	special event
+1.0	I	have	real fear going
+1.0	She	stated during	special event for her film Cake
+1.0	She	stated during	event for her film Cake
+1.0	I	basically have	fear going
+1.0	I	was riding	tricycle
+1.0	I	was riding tricycle around	swimming pool
+1.0	I	was	kid
+1.0	incident	filming	pool scene
+1.0	incident	filming	swimming pool scene
+1.0	set	is with	director Daniel Barnz
+1.0	Checker	on	Grave
+1.0	Aniston	supported	herself
+1.0	Aniston	Dancing on	Checker 's Grave
+1.0	Aniston	worked in	productions
+1.0	Aniston	appeared as	spokesmodel for Nutrisystem
+1.0	Aniston	appeared on	Howard Stern Show
+1.0	Aniston	appeared In	1989
+1.0	Aniston	appeared as	spokesmodel
+1.0	Aniston	moved at_time	year
+1.0	Aniston	moved back at_time	year
+1.0	Aniston	starring as	regular
+1.0	Aniston	was	cast
+1.0	her first television role	is in	1990
+1.0	Aniston	was cast in	her television role in 1990
+1.0	Aniston	was cast	starring as regular
+1.0	Aniston	was cast in	her first television role in 1990
+1.0	Aniston	was cast in	her television role
+1.0	Aniston	was cast in	her first television role
+1.0	Aniston	was cast	starring as regular on short-lived series Molloy
+1.0	Aniston	starring as	regular on series Molloy
+1.0	Aniston	was cast	starring
+1.0	Aniston	was cast	starring as regular on series Molloy
+1.0	Aniston	starring as	regular on short-lived series Molloy
+1.0	movie Ferris Bueller	of	Day
+1.0	She	co-starred like	Molloy
+1.0	She	co-starred like	Molloy canceled
+1.0	She	co-starred like	Molloy also canceled
+1.0	She	co-starred in	television adaptation
+1.0	She	co-starred in	Ferris Bueller
+1.0	She	co-starred in	television adaptation of movie Ferris Bueller 's Day
+1.0	Ferris Bueller	adaptation of	movie Ferris Bueller 's Day
+1.0	She	co-starred like	Molloy quickly canceled
+1.0	She	co-starred in	television adaptation of movie Ferris Bueller 's Day Off
+1.0	She	co-starred in	television adaptation Off
+1.0	She	co-starred like	Molloy also quickly canceled
+1.0	Other roles	included	guest roles
+1.0	Other roles	included	horror film Leprechaun
+1.0	roles	included	TV movie Camp Cucamonga
+1.0	roles	included	1990
+1.0	Herman	has	Head
+1.0	roles	included	1993
+1.0	Burke	has	Law
+1.0	Other roles	included	1993
+1.0	roles	included	guest roles on Quantum Leap
+1.0	Other roles	included	1990
+1.0	Other roles	included	TV movie Camp Cucamonga
+1.0	roles	included	horror film Leprechaun
+1.0	Other roles	included	guest roles on Quantum Leap
+1.0	roles	included	guest roles
+1.0	Aniston	approached Warren Littlefield at	Los Angeles gas station asking for reassurance about her career
+1.0	Aniston	Depressed over	her four unsuccessful television shows
+0.3887957230129127	Los Angeles gas station	asking for	reassurance her career
+1.0	Aniston	approached Warren Littlefield at	Los Angeles gas station asking for reassurance
+1.0	Aniston	approached Warren Littlefield at	Los Angeles gas station
+1.0	Aniston	approached Warren Littlefield at	Los Angeles gas station asking
+0.3887957230129127	Los Angeles gas station	asking for	reassurance
+1.0	Aniston	Depressed over	her four television shows
+1.0	Aniston	approached	Warren Littlefield
+1.0	head	encouraged	Aniston
+1.0	NBC	on	1994 1995 fall lineup
+1.0	Aniston	continue	acting
+1.0	Courteney Cox	be	better suited
+1.0	Courteney Cox	was considered	suited
+1.0	Courteney Cox	was considered	better suited to role
+1.0	Courteney Cox	was considered	better suited
+1.0	producers	wanted	Aniston
+1.0	Courteney Cox	be better suited to	role
+1.0	producers	originally wanted	Aniston
+1.0	Courteney Cox	was	considered
+1.0	Courteney Cox	be	suited
+1.0	Courteney Cox	was considered	suited to role
+1.0	Aniston	audition for	role of Monica Geller
+1.0	Aniston	audition for	role
+1.0	Courteney Cox	be suited to	role
+1.0	Aniston	was	cast
+1.0	Aniston	was	Thus cast
+1.0	Aniston	Thus was cast as	Rachel Green
+1.0	Aniston	was cast as	Rachel Green
+1.0	She	was also offered	spot
+1.0	She	was offered spot as	featured player
+1.0	She	was also offered spot as	player
+1.0	She	was offered spot as	player on Saturday Night Live
+1.0	She	was offered	spot
+1.0	She	was also offered spot as	featured player on Saturday Night Live
+1.0	She	was offered spot as	featured player on Saturday Night Live
+1.0	She	was offered spot as	player
+1.0	She	turned down	it
+1.0	She	was also offered spot as	player on Saturday Night Live
+1.0	She	was also offered spot as	featured player
+1.0	She	played character	show ended in 2004
+1.0	She	played	character
+1.0	She	played character	show ended
+1.0	show	ended in	2004
+1.0	She	played	character of Rachel
+1.0	She	played character from	1994
+1.0	Aniston	gained reputation among	television viewers
+1.0	Aniston	gained	reputation
+1.0	Aniston	gained reputation along with	her co-stars
+1.0	program	was	successful
+1.0	Aniston	gained	world-wide reputation
+0.24053195234278354	Aniston	salary per	episode
+0.24053195234278354	Aniston	salary of	US$ 1 million
+1.0	Aniston	received salary including	win for Outstanding Lead Actress in Comedy Series
+1.0	Aniston	received	salary of US$ 1 million per episode
+1.0	Aniston	received salary including	win for Outstanding Lead Actress
+1.0	Aniston	received salary including	win in Comedy Series
+1.0	Aniston	received salary including	win for Lead Actress in Comedy Series
+1.0	Aniston	received salary for	two seasons
+1.0	Aniston	received salary including	win for Lead Actress
+1.0	Aniston	received salary for	last two seasons
+1.0	Aniston	received	salary per episode
+1.0	Aniston	received salary including	win
+1.0	Aniston	received salary including	win for Outstanding Actress in Comedy Series
+1.0	Aniston	received salary including	win for Actress
+1.0	Aniston	received	salary of US$ 1 million
+1.0	Aniston	received salary including	win for Outstanding Actress
+1.0	Aniston	received	salary
+1.0	Aniston	received salary including	win for Actress in Comedy Series
+1.0	She	won	Golden Globe Award for Actress
+1.0	She	was	nominated
+1.0	She	won Golden Globe Award in	2003
+1.0	She	was also nominated for	two Golden Globe Awards
+1.0	She	was	also nominated
+1.0	She	was nominated for	two Golden Globe Awards
+1.0	She	won	Golden Globe Award for Best Actress
+1.0	She	won	Golden Globe Award
+1.0	Aniston	became According to	Guinness World Book of Records
+1.0	Aniston	became According to	Guinness World Book
+1.0	Records	of Book is	2005
+1.0	Aniston	became According to	2005
+1.0	couple	were	voted as TV 's favorite couple by polls
+1.0	couple	were	voted
+1.0	Her character 's relationship	was	popular
+1.0	couple	were frequently voted as	TV 's favorite couple
+1.0	couple	were	voted as TV 's couple by polls
+1.0	Her character 's relationship	was widely popular among	audiences
+1.0	couple	were frequently voted by	polls
+1.0	couple	were frequently voted as	TV 's couple
+1.0	couple	were voted as	TV 's favorite couple
+1.0	Her character 's relationship	was	widely popular
+1.0	Her character 's relationship	is with	Ross Geller
+1.0	couple	were voted as	TV 's couple
+1.0	couple	were	frequently voted
+1.0	character	has	relationship with Ross Geller portrayed by David Schwimmer in show
+1.0	TV	as	favorite couple
+1.0	couple	were voted by	polls
+1.0	couple	were	frequently voted as TV 's favorite couple by polls
+1.0	Her character 's relationship	was popular among	audiences
+1.0	couple	were	frequently voted as TV 's couple by polls
+1.0	Aniston	returned Following	four-year hiatus
+1.0	Aniston	returned Following	four-year hiatus from cinema
+1.0	Aniston	returned Following	hiatus
+1.0	Aniston	returned Following	hiatus from cinema
+1.0	Aniston	returned to	film work
+1.0	she	starred	opposite Kevin Bacon
+1.0	she	starred	Jay Mohr
+1.0	Aniston	has	first starring vehicle
+1.0	she	starred	Kevin Bacon
+1.0	film	received	reviews
+1.0	she	had	screen presence
+1.0	film	received	mixed reviews
+1.0	Aniston	has	performance
+1.0	She	starred in	cult film Office Space
+1.0	She	starred in	1999
+1.0	She	starred for	director Mike Judge
+1.0	My Affection	comedy-drama about	woman
+1.0	She	appeared in	Object
+1.0	My	Affection	1998
+1.0	She	appeared in	Object of My Affection
+1.0	My	Affection	comedy-drama about woman
+1.0	She	gained acclaim for	her performance in low-budget film
+1.0	her performance	is in	low-budget film
+1.0	She	gained acclaim for	her performance in film
+1.0	She	gained acclaim for	her performance
+1.0	She	gained	critical acclaim
+1.0	She	gained	acclaim
+1.0	film critic Roger Ebert	declared role In	2002
+1.0	film critic Roger Ebert	declared	role
+0.022365932509734954	film critic Roger Ebert	declared	stating
+0.022365932509734954	film critic Roger Ebert	declared as	her breakthrough film
+0.022365932509734954	film critic Roger Ebert	declared In	2002
+1.0	film critic Roger Ebert	declared role as	her breakthrough film
+0.07149773898788192	It	consider in	same way
+0.07149773898788192	It	consider in	way
+1.0	It	will	will possible
+1.0	It	consider	her
+1.0	she	played	girlfriend of Jim Carrey 's title character
+0.6765996341819633	she	girlfriend of	Jim Carrey 's title character
+1.0	her appearance	is in	comedy Bruce Almighty
+1.0	she	played	girlfriend
+1.0	Jim Carrey	of	title character
+1.0	Aniston	has	biggest box office success to date
+1.0	Aniston 's box office success	was	her appearance
+1.0	Aniston 's biggest box office success	was	her appearance
+1.0	Aniston	starred in	comedy film Along Came Polly
+1.0	Aniston	starred in	romantic comedy film
+1.0	Aniston	starred in	romantic comedy film Along Came Polly
+1.0	Aniston	starred in	comedy film
+1.0	Aniston	appeared in	thriller
+1.0	Aniston	appeared in	thriller Derailed
+1.0	Aniston	appeared in	two studio films
+1.0	Aniston	appeared in	two major studio films
+1.0	Aniston	appeared in	low-budget drama Friends
+1.0	Aniston	appeared with	2006
+1.0	Aniston	appeared in	drama Friends
+1.0	Vince Vaughn	alongside Break-Up is	2006
+1.0	Aniston	has	next film
+1.0	A.V. Club	has	Keith Phipps
+1.0	A.V. Club 's Keith Phipps	gave	review
+1.0	break	feature	length
+1.0	A.V. Club 's Keith Phipps	gave	film
+0.45412166269070897	we	were on	break
+1.0	It	has	watching
+1.0	A.V. Club 's Keith Phipps	gave	negative review
+1.0	A.V. Club 's Keith Phipps	gave	review stating
+1.0	A.V. Club 's Keith Phipps	gave	negative review stating
+0.6407023600189707	we	episode of	Friends
+1.0	CinemaBlend	gave	review
+1.0	CinemaBlend	gave	review stating
+1.0	CinemaBlend	gave	positive review
+1.0	CinemaBlend	gave	positive review stating
+1.0	CinemaBlend	gave	film
+1.0	Break-Up	offers flipside In	era
+1.0	Break-Up	offers	refreshing flipside
+1.0	Break-Up	offers	flipside
+1.0	It	was released on	June 2
+1.0	It	grossed	US$ 39.17 million
+1.0	It	was	released
+1.0	It	grossed	approximately US$ 39.17 million
+1.0	film	was successful at	box office
+1.0	film	was	successful
+1.0	film	was successful at	box office grossing
+1.0	Aniston	directed	hospital emergency room-set short film called
+1.0	Aniston	starring	Kris Kristofferson
+1.0	Aniston	starring Kris Kristofferson as	part
+1.0	Aniston	starring Robin Wright as	part of Glamour 's Reel Moments film series
+1.0	Aniston	starring	Robin Wright
+1.0	Aniston	directed	hospital emergency room-set film
+1.0	Aniston	directed	hospital emergency room-set short film
+1.0	Aniston	directed	hospital emergency room-set film called
+1.0	Aniston	starring Kris Kristofferson as	part of Glamour 's Reel Moments film series
+1.0	Aniston	starring Robin Wright as	part
+1.0	Glamour	of	Reel Moments film series
+1.0	she	was inspired	direct
+1.0	she	was	inspired
+1.0	Courteney Cox Arquette	of	series Dirt
+1.0	Aniston guest	starred Tina Harrod In	2007
+1.0	Aniston guest	starred	Tina Harrod
+1.0	Aniston guest	starred Tina Harrod in	episode of Courteney Cox Arquette 's series Dirt
+1.0	Aniston guest	starred Tina Harrod in	episode
+1.0	Arquette	has	rival
+1.0	Tina Harrod	playing	Arquette 's rival
+1.0	She	appeared in	episode
+1.0	She	appeared in	third episode of Season 3 of NBC 's
+1.0	She	appeared in	third episode
+1.0	Liz Lemon	has	old college roommate
+1.0	She	appeared in	episode of Season 3 of
+1.0	She	appeared in	episode of Season 3
+1.0	She	appeared in	third episode of Season 3 of
+1.0	She	appeared in	third episode of Season 3
+1.0	She	appeared in	episode of Season 3 of NBC 's
+1.0	Aniston	starred alongside	Owen Wilson
+1.0	It	set ever	record for Christmas Day box office
+1.0	It	set	record for largest Christmas Day box office
+1.0	It	set	record
+1.0	It	set	record for Christmas Day box office
+1.0	It	set record with	US$ 14.75 million in ticket sales
+1.0	It	set record ever with	US$ 14.75 million
+1.0	It	set record ever with	US$ 14.75 million in ticket sales
+1.0	It	set record with	US$ 14.75 million
+1.0	It	set ever	record
+1.0	It	set ever	record for largest Christmas Day box office
+1.0	It	placed	number one
+1.0	It	earned	total
+1.0	It	earned	total of US$ 51.7 million
+1.0	It	earned total over	weekend
+1.0	It	earned total over	four-day weekend
+1.0	it	maintained for	two weeks
+1.0	total gross	was	US$ 242.7 million
+1.0	gross	was	US$ 242.7 million
+1.0	total worldwide gross	was	US$ 242.7 million
+1.0	worldwide gross	was	US$ 242.7 million
+1.0	Her	film	romantic comedy-drama
+1.0	Her next film	is in	wide release
+1.0	wide release	in film is	romantic comedy-drama
+1.0	movie	grossed globally	$ 178.8 million
+1.0	movie	ranked at	United States box office
+1.0	movie	ranked for	its opening weekend
+1.0	movie	grossed	$ 178.8 million
+1.0	movie	ranked at	number one
+1.0	film	received	reviews
+1.0	Jennifer Connelly	being	stand-outs
+1.0	Jennifer Connelly	were praised	stand-outs in film
+1.0	Jennifer Connelly	were often praised by	critics
+1.0	Jennifer Connelly	being stand-outs in	film
+1.0	Jennifer Connelly	were praised	stand-outs
+1.0	Jennifer Connelly	were often praised	stand-outs in film
+1.0	Jennifer Connelly	were	praised
+1.0	stand-outs	is in	film
+1.0	film	received	mixed reviews
+1.0	Jennifer Connelly	were	often praised
+1.0	Jennifer Connelly	were often praised	stand-outs
+1.0	Jennifer Connelly	were praised by	critics
+1.0	Aniston	received Emmy nomination in	Comedy Series for her role
+1.0	Aniston	received Emmy nomination in	category of Outstanding Guest Actress
+1.0	Aniston	received Emmy nomination in	category
+1.0	Aniston	received Emmy nomination in	Comedy Series for her role on 30 Rock
+1.0	Aniston	received Emmy nomination in	Comedy Series
+1.0	Aniston	received Emmy nomination in	category of Guest Actress
+1.0	Aniston	received	Emmy nomination
+1.0	Aniston	received Emmy nomination On	July 16 2009
+1.0	Aniston	was	guest star on season 2 premiere
+1.0	Aniston	playing	psychiatrist
+1.0	Aniston	was	guest star on season 2 premiere of ABC 's sitcom Cougar Town
+1.0	Aniston	was	guest star
+1.0	ABC	of	sitcom Cougar Town
+1.0	part	is twist on	old crazier than patient
+0.9409743303089798	psychiatrist	is on	old crazier than patient
+1.0	part	is more or less twist on	old crazier than patient
+1.0	It	has	funny
+1.0	media outlets	praised	her performance
+1.0	Numerous media outlets	praised	her performance
+1.0	Numerous media outlets	also praised	her performance
+1.0	media outlets	also praised	her performance
+1.0	Aniston	appeared in	romantic comedy action film
+1.0	Aniston	appeared In	March 2010
+1.0	Aniston	appeared in	comedy action film
+1.0	film	was panned by	critics
+1.0	film	was	panned
+1.0	Hollywood Reporter	described	it
+1.0	It	was	box office success
+1.0	It	garnering	over US$ 130 million worldwide
+1.0	It	garnering	worldwide
+1.0	It	was	modest
+1.0	It	garnering	US$ 130 million worldwide
+1.0	It	was	modest box office success
+1.0	she	co-starred with	Jason Bateman
+1.0	lukewarm box-office reception	greeted	comedy
+1.0	box-office reception	greeted	her next film
+1.0	lukewarm box-office reception	greeted	her film
+1.0	box-office reception	greeted	her film
+1.0	box-office reception	greeted	romantic comedy
+1.0	lukewarm box-office reception	greeted	romantic comedy
+1.0	lukewarm box-office reception	greeted	her next film
+1.0	box-office reception	greeted	comedy
+1.0	film	has	opening weekend
+1.0	film	received	generally mixed reviews
+1.0	film	received	reviews
+1.0	film	received	mixed reviews
+1.0	film	received reviews with	review site
+1.0	film	received reviews with	review site Metacritic
+1.0	Aniston 's movies	had grossed	US$ 1 billion in United States
+1.0	Aniston 's movies	had grossed	US$ 1 billion
+1.0	Aniston	has	movies
+1.0	Aniston 's romantic comedy	Go with	2011
+1.0	Aniston 's comedy	Just Go with	2011
+1.0	Aniston 's romantic comedy	Just Go with	2011
+1.0	Aniston 's romantic comedy	Just Go with	It
+0.7233649761106861	Aniston 's comedy	was released on	Valentine 's Day weekend
+1.0	Aniston 's comedy	Just Go with	Adam Sandler
+1.0	Aniston 's comedy	Go with	2011
+0.7233649761106861	Aniston 's comedy	was	released
+0.7233649761106861	Aniston 's romantic comedy	was	released
+1.0	Aniston 's romantic comedy	Go with	It
+1.0	Valentine	on	Day weekend
+1.0	Aniston	has	romantic comedy
+1.0	Aniston 's comedy	Just Go with	It
+1.0	Aniston 's romantic comedy	Go with	Adam Sandler
+0.7233649761106861	Aniston 's romantic comedy	was released on	Valentine 's Day weekend
+1.0	Aniston 's comedy	Go with	Adam Sandler
+1.0	Aniston 's comedy	Go with	It
+1.0	Aniston 's romantic comedy	Just Go with	Adam Sandler
+0.19128112732004798	his office manager	pose	prove to his much younger girlfriend
+0.19128112732004798	his office manager	pose	prove to his much girlfriend played
+1.0	story	is about	plastic surgeon played
+0.19128112732004798	his office manager	pose	prove to his girlfriend played by Brooklyn Decker
+1.0	story	is about	surgeon
+0.19128112732004798	his office manager	pose	prove to his much girlfriend played by Brooklyn Decker
+0.19128112732004798	his office manager	pose	prove to his younger girlfriend played
+0.19128112732004798	his office manager	pose	prove to his younger girlfriend
+0.19128112732004798	his office manager	pose	prove to his girlfriend
+0.19128112732004798	his office manager	pose	prove
+0.19128112732004798	his office manager	pose	prove to his girlfriend played
+0.19128112732004798	his office manager	pose	prove to his younger girlfriend played by Brooklyn Decker
+1.0	story	is	plastic
+1.0	his office manager	pose as	his wife
+0.19128112732004798	his office manager	pose	prove to his much younger girlfriend played by Brooklyn Decker
+0.19128112732004798	his office manager	pose	prove to his much younger girlfriend played
+1.0	story	is about	surgeon played
+0.19128112732004798	his office manager	pose	prove to his much girlfriend
+1.0	story	is about	plastic surgeon
+1.0	Aniston	starred in	comedy movie Horrible Bosses
+1.0	Aniston	starred in	2011
+1.0	Jamie Foxx	directed by	Seth Gordon
+1.0	Aniston	starred in	comedy movie Bosses
+1.0	Aniston	starred with	Colin Farrell
+1.0	film	focuses on	trio
+1.0	Charlie Day	has	character
+1.0	She	reprised	her role in sequel Horrible Bosses 2
+1.0	She	reprised	her role
+1.0	She	reprised	her role in sequel Bosses 2
+1.0	her role	is in	sequel Horrible Bosses 2
+1.0	she	co-starred in	movie
+1.0	Aniston	appeared in	comedy Wanderlust
+1.0	Aniston	appeared in	2012
+1.0	My	Affection	1998
+1.0	script	was produced by	Judd Apatow
+1.0	script	was written with	latter
+1.0	script	was written by	Rudd
+1.0	script	was	written
+1.0	script	was	produced
+1.0	script	was	written by Rudd with latter
+1.0	movie	was	married
+0.9332097727286138	grossing	worldwide	only $ 21 million
+1.0	box office failure	grossing	worldwide
+1.0	Wanderlust	received	mixed reviews
+0.9332097727286138	grossing	worldwide	$ 21 million
+1.0	Wanderlust	was	box office failure against production budget
+1.0	Wanderlust	received	reviews
+1.0	Wanderlust	was	box office failure
+1.0	box office failure	grossing	only $ 21 million worldwide
+1.0	box office failure	grossing	$ 21 million worldwide
+1.0	Wanderlust	was	box office failure against production budget of $ 35 million
+1.0	EUE/Screen Gems Productions ' We	in Millers is	2013
+1.0	EUE/Screen Gems Productions ' We	in Millers is	North Carolina
+1.0	Millers	is in	EUE/Screen Gems Productions ' We
+1.0	summer	is in	Wilmington
+1.0	Aniston	starred with	Jason Sudeikis
+1.0	film	received	reviews
+1.0	film	comedy about	drug dealer with fake family
+1.0	film	received	mixed reviews
+1.0	film	received reviews from	critics
+1.0	drug dealer	is with	fake family
+0.6633414356924675	financial success	grossing US$ 269 million against	budget US$ 37 million
+0.6633414356924675	success	grossing	US$ 269 million
+0.6633414356924675	success	grossing US$ 269 million against	budget US$ 37 million
+0.6633414356924675	financial success	grossing US$ 269 million against	budget
+0.6633414356924675	success	grossing US$ 269 million against	budget
+0.6633414356924675	financial success	grossing	US$ 269 million
+1.0	We	're	Millers
+1.0	Aniston	played	role of Mickey Dawson in Life of Crime
+1.0	role	is in	Life of Crime
+1.0	Aniston	played	role of Mickey Dawson
+1.0	Crime	of Life is	2014
+1.0	Aniston	played	role in Life of Crime
+1.0	Aniston	played	role
+1.0	Aniston	played	role in Life
+1.0	Crime	of Life is	film adaptation
+1.0	Aniston	played	role of Mickey Dawson in Life
+1.0	Life	adaptation of	Elmore Leonard 's 1978 novel
+1.0	her role	is in	film outshone
+1.0	Catherine Shoard	described	her performance
+1.0	movie	was released to	reviews
+1.0	movie	was	released
+1.0	movie	was	released in US to reviews
+1.0	movie	was released to	positive reviews
+1.0	movie	was	released in US to positive reviews
+1.0	movie	was released in	US
+1.0	cast	include	Isla Fisher
+1.0	cast	include	John Hawkes
+1.0	cast	include	Mos Def
+1.0	cast	include	Tim Robbins
+1.0	cast	include	Mark Boone Junior
+1.0	cast	include	Will Forte
+1.0	Aniston	starred in	film Cake
+1.0	Aniston	starred in	2014
+1.0	Aniston 's performance	was	praised
+0.995675912145428	Aniston 's performance	dubbed as	Oscar-worthy
+1.0	Aniston 's performance	was	however highly praised
+0.995675912145428	Aniston 's performance	dubbed by	critics
+1.0	Aniston	has	performance
+1.0	Aniston 's performance	was	highly praised
+1.0	Aniston 's performance	was	however praised
+1.0	It	's on	really most people 's radar
+1.0	It	's on	people 's radar
+1.0	It	being dramatic turn for	Jennifer Aniston
+1.0	Toronto International Film Festival	called	good
+1.0	It	being	turn
+1.0	It	being rare dramatic turn for	Jennifer Aniston
+1.0	It	being	rare turn
+1.0	Toronto International Film Festival	called	heartbreakingly good
+1.0	It	's on	really people 's radar
+1.0	It	being	rare dramatic turn
+1.0	It	being rare turn for	Jennifer Aniston
+1.0	It	being	dramatic turn
+1.0	It	being	dramatic
+1.0	It	being turn for	Jennifer Aniston
+1.0	It	being	rare
+1.0	It	's on	most people 's radar
+1.0	you	believe in	Claire 's pain
+1.0	Claire	in	pain
+1.0	she	deserves	accolades
+1.0	It	's performance	beginning
+1.0	It	has	complete
+1.0	she	deserves accolades for	it
+1.0	she	deserves	appropriate accolades
+1.0	It	's complete performance	beginning
+1.0	Aniston	was	nominated
+1.0	Aniston	was nominated for	Golden Globe Award in Motion Picture by Female Actor in Role
+1.0	Aniston	was nominated for	Golden Globe Award for Actress in Motion Picture by Actor in Leading Role
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress by Actor
+1.0	Female Actor	is in	Leading Role
+1.0	Aniston	was nominated for	Broadcast Film Critics Association Award for Best Actress
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress in Motion Picture by Actor in Leading Role
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress by Female Actor
+1.0	Aniston	was nominated for	Golden Globe Award in Motion Picture
+1.0	Aniston	was nominated for	Golden Globe Award by Actor in Leading Role
+1.0	Aniston	was nominated for	Golden Globe Award for Actress in Motion Picture by Female Actor in Leading Role
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress
+1.0	Aniston	was nominated for	Golden Globe Award for Actress
+1.0	Aniston	was nominated for	Broadcast Film Critics Association Award
+1.0	Aniston	was nominated for	Golden Globe Award in Motion Picture by Female Actor in Leading Role
+1.0	Aniston	was nominated for	Golden Globe Award for Actress in Motion Picture by Actor in Role
+1.0	Aniston	was nominated for	Golden Globe Award
+1.0	Broadcast Film Critics Association Award	Award in	Motion Picture
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress in Motion Picture
+1.0	Aniston	was nominated for	Golden Globe Award for Actress by Female Actor in Leading Role
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress in Motion Picture by Female Actor
+1.0	Aniston	was nominated for	Broadcast Film Critics Association Award for Actress
+1.0	Aniston	was nominated for	Golden Globe Award in Motion Picture by Female Actor
+1.0	Aniston	was nominated for	Golden Globe Award by Actor
+1.0	Broadcast Film Critics Association Award	Award for	Best Actress
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress by Female Actor in Role
+1.0	Aniston	was nominated for	Golden Globe Award for Actress by Female Actor
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress by Female Actor in Leading Role
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress by Actor in Role
+1.0	Aniston	was nominated for	Golden Globe Award by Female Actor
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress in Motion Picture by Actor
+1.0	Aniston	was nominated for	Golden Globe Award by Actor in Role
+1.0	Golden Globe Award	is in	Motion Picture
+1.0	Aniston	was nominated for	Golden Globe Award for Actress by Actor
+1.0	Aniston	was nominated for	Golden Globe Award in Motion Picture by Actor
+1.0	Aniston	was nominated for	Golden Globe Award for Actress in Motion Picture
+1.0	Aniston	was nominated for	Golden Globe Award for Actress in Motion Picture by Female Actor
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress in Motion Picture by Actor in Role
+1.0	Aniston	was nominated for	Golden Globe Award by Female Actor in Leading Role
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress by Actor in Leading Role
+1.0	Aniston	was nominated for	Golden Globe Award for Actress in Motion Picture by Actor
+1.0	Aniston	was nominated for	Golden Globe Award by Female Actor in Role
+1.0	Broadcast Film Critics Association Award	Award by	Female Actor in Leading Role
+1.0	Aniston	was nominated for	Golden Globe Award in Motion Picture by Actor in Leading Role
+1.0	Aniston	was nominated for	Golden Globe Award for Actress by Actor in Leading Role
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress in Motion Picture by Female Actor in Leading Role
+1.0	Aniston	was nominated for	Golden Globe Award for Actress by Actor in Role
+1.0	Aniston	was nominated for	Golden Globe Award for Best Actress in Motion Picture by Female Actor in Role
+1.0	Aniston	was nominated for	Golden Globe Award for Actress by Female Actor in Role
+1.0	Aniston	was nominated for	Golden Globe Award for Actress in Motion Picture by Female Actor in Role
+1.0	Aniston	was nominated for	Golden Globe Award in Motion Picture by Actor in Role
+1.0	movie	starred	Anna Kendrick
+1.0	movie	starred	Felicity Huffman
+1.0	movie	also starred	William H. Macy
+1.0	movie	starred	Sam Worthington
+1.0	movie	also starred	Adriana Barraza
+1.0	movie	also starred	Felicity Huffman
+1.0	movie	starred	William H. Macy
+1.0	movie	also starred	Anna Kendrick
+1.0	movie	starred	Adriana Barraza
+1.0	movie	also starred	Sam Worthington
+1.0	Funny	is in	She
+1.0	movie	was	produced
+1.0	movie	starred	Rhys Ifans
+1.0	movie	starred	Imogen Poots
+1.0	movie	starred	Owen Wilson
+1.0	movie	starred	Kathryn Hahn
+1.0	movie	starred	Will Forte
+1.0	movie	was produced by	Wes Anderson
+1.0	Aniston	starred in	comedy Mother 's Day
+1.0	Aniston	starred in	romantic comedy Mother 's Day
+1.0	romantic comedy Mother	in	Day
+1.0	romantic comedy Mother	's Day is	2016
+1.0	Aniston	starred in	2016
+1.0	film	was released in	April 2016
+1.0	film	was	released
+1.0	she	shooting	war drama film
+0.7875256841936755	Birds	starring alongside	Alden Ehrenreich
+1.0	she	started In	December 2015
+0.7875256841936755	Yellow Birds	starring alongside	Alden Ehrenreich
+0.7875256841936755	Birds	directed by	Alexandre Moors
+0.7875256841936755	Yellow Birds	directed by	Alexandre Moors
+1.0	Aniston	voicing	Sarah Gardner alongside Andy Samberg
+1.0	Aniston	had role in	animated movie Storks
+1.0	Aniston	had	role
+1.0	Aniston	voicing	Sarah Gardner
+1.0	Aniston	had role In	2016
+1.0	Aniston	had role in	movie Storks
+1.0	film	was released on	September 23
+1.0	film	was	released
+1.0	Kate McKinnon	released on	December 9 2016
+1.0	Jason Bateman	was	directed by Josh Gordon
+1.0	opposite Jason Bateman	was	directed
+1.0	Jason Bateman	was	directed
+1.0	opposite Jason Bateman	was	directed by Josh Gordon
+1.0	Aniston	has appeared in	commercials
+1.0	Aniston	has appeared in	various commercials
+1.0	Aniston	has appeared throughout	her career
+1.0	Tom Petty	is In	1996
+1.0	she	was in	Tom Petty
+1.0	she	was in	In 1996 Tom Petty
+1.0	I	Be In	Love
+1.0	Melissa Etheridge 's music video	is In	2001
+1.0	Aniston	was in	Melissa Etheridge 's music video Want
+1.0	Aniston	was in	In 2001 Melissa Etheridge 's music video Want
+1.0	She	was	cast
+1.0	Aniston	has in	has also commercials for L'Oreal hair products
+1.0	Aniston	has in	has commercials
+1.0	Aniston	has in	has commercials for L'Oreal hair products
+1.0	Aniston	has in	has also commercials
+1.0	Matthew Perry	shot video for	release
+1.0	Matthew Perry	shot	60-minute instructional video
+1.0	Matthew Perry	shot video for	release of Microsoft 's Windows 95 operating system
+1.0	Matthew Perry	shot	60-minute video
+1.0	Matthew Perry	shot	instructional video
+1.0	Matthew Perry	shot	video
+1.0	Microsoft	of	Windows 95 operating system
+1.0	Aniston	co-star In	1995
+1.0	her Friends	co-star In	1995
+1.0	Brad Grey	CEO of	Paramount Pictures
+1.0	she	formed production company Echo Films In	2008
+1.0	producer Kristin Hahn	formed production company Echo Films In	2008
+1.0	she	formed	production company Echo Films
+1.0	producer Kristin Hahn	formed	production company Echo Films
+1.0	Aniston	worked for	for year
+1.0	contract	is with	Arden
+1.0	Harrods	is in	London
+1.0	name	avoid confusion with	similarly named perfume
+1.0	name	avoid confusion with	perfume
+1.0	name	was changed to	simply Jennifer Aniston
+1.0	name	was changed to	Jennifer Aniston
+1.0	name	avoid	confusion
+1.0	name	was	changed
+1.0	name	avoid confusion with	named perfume
+1.0	Aniston	said In	interview
+1.0	Aniston	said In	interview following launch
+1.0	she	launched In	2014
+1.0	she	launched	her third perfume named Near Dusk
+1.0	she	created	her fourth scent
+1.0	she	launched	her perfume named Near Dusk
+1.0	she	launched	her perfume
+1.0	she	launched	her third perfume named
+1.0	she	launched	her third perfume
+1.0	she	created	her scent
+1.0	she	launched	her perfume named
+1.0	she	released	YouTube video
+1.0	Jennifer Aniston	Goes	Viral
+1.0	Aniston	has worked in	publicity campaign
+1.0	Aniston	has worked Since	2007
+1.0	Aniston	has worked in	publicity campaign for drink SmartWater
+1.0	online interest	is in	product
+1.0	Aniston	became In	January 2013
+1.0	Aniston	became	spokesperson
+1.0	Aniston	became	new spokesperson
+1.0	Aniston	spokesperson of	Aveeno Skincare
+1.0	Aniston	became	new spokesperson of Aveeno Skincare
+1.0	Aniston	became	spokesperson of Aveeno Skincare
+1.0	Aniston	new spokesperson of	Aveeno Skincare
+1.0	commercials	began	airing
+1.0	commercials	began	airing in May 2013
+1.0	commercials	airing in	May 2013
+1.0	she	face in	deal
+1.0	she	new face of	Emirates airline
+1.0	she	became	face of Emirates airline in deal reported
+1.0	she	became In	2015
+1.0	she	became	new face in deal
+1.0	she	became	new face in deal reported
+1.0	she	new face in	deal reported
+1.0	she	became	face in deal
+1.0	reported	be	US$ 5 million
+1.0	she	became	face of Emirates airline
+1.0	she	face in	deal reported
+1.0	she	became	new face
+1.0	new face	is in	deal reported
+1.0	she	became	new face of Emirates airline in deal
+1.0	she	became	face of Emirates airline in deal
+1.0	she	became	face
+1.0	she	new face in	deal
+1.0	she	became	face in deal reported
+1.0	she	face of	Emirates airline
+1.0	she	became	new face of Emirates airline in deal reported
+1.0	she	became	new face of Emirates airline
+1.0	reported	be	roughly US$ 5 million
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as popular brand for consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as most popular brand for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as most popular brand for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as popular brand for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as popular brand in UAE for second consecutive year
+1.0	success	is with	airline bagging No. 1 position as most popular brand in UAE for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as brand in UAE for year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as popular brand in UAE for consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as popular brand in UAE for second year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as most popular brand for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as brand in UAE for second consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as most popular brand for year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as brand in UAE for second year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position for second consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as popular brand for second year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as most popular brand in UAE for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as brand in UAE for consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as brand in UAE for consecutive year
+1.0	popular brand	is in	UAE
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as most popular brand in UAE
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as most popular brand
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as popular brand in UAE for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as most popular brand for year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as popular brand in UAE
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as brand
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as most popular brand in UAE for year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as popular brand for year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as popular brand for second consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as brand in UAE
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as popular brand
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as popular brand in UAE for year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as popular brand for second year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as brand for second year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as most popular brand for year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as popular brand for second consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as popular brand for year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as most popular brand for second year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as most popular brand in UAE for second year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as popular brand for consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as brand for second year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as popular brand in UAE for year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as popular brand
+1.0	Aniston 's marketing campaign	was	success
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as most popular brand in UAE for year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as popular brand in UAE for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as popular brand in UAE for second year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as popular brand for second consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as most popular brand in UAE for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position for year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as popular brand in UAE for second consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as popular brand for consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as popular brand in UAE for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as popular brand for year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as popular brand for second year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as most popular brand for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as brand for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as popular brand for year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as popular brand in UAE for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as most popular brand in UAE for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as brand in UAE
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as brand for second consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as popular brand in UAE
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as popular brand in UAE
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as brand in UAE for second consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position for second year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as most popular brand for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as popular brand in UAE for second consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as brand for year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as brand for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as most popular brand for second consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as brand for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position for year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as popular brand
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as brand for second year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as popular brand in UAE for year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as most popular brand for second year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as brand for year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as most popular brand in UAE for second year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as brand for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as brand in UAE for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position for second year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as most popular brand
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as brand in UAE for year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as popular brand for second year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as brand
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as brand in UAE
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as brand in UAE
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as brand in UAE for second year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position for consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as most popular brand in UAE for second consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as popular brand
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as popular brand in UAE for second year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as brand for year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as most popular brand in UAE for consecutive year
+1.0	Aniston 's marketing campaign	was	reportedly success
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as most popular brand in UAE for year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as most popular brand for second consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position for second year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as brand in UAE for year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as brand
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as brand in UAE for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as most popular brand in UAE for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as brand for consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as brand for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as popular brand in UAE for year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position for year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as brand
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position for year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as most popular brand in UAE for consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as most popular brand for year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as most popular brand
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as popular brand in UAE
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as popular brand for consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position
+1.0	Aniston	has	marketing campaign for Dubai-based Emirates airline
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as most popular brand for second year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as popular brand in UAE for second year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as brand for year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as most popular brand in UAE
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as brand in UAE for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as most popular brand
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as most popular brand in UAE
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as most popular brand for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as brand in UAE for second consecutive year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as most popular brand in UAE for second year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as brand in UAE for year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as most popular brand in UAE for year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as brand for second year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as most popular brand in UAE
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as brand in UAE for second year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline bagging No. 1 position as most popular brand for second year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position for second year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as most popular brand in UAE for second year
+1.0	Aniston 's marketing campaign	was success with	airline bagging No. 1 position as most popular brand in UAE for consecutive year
+1.0	Aniston 's marketing campaign	was reportedly success with	airline No. 1 position as brand in UAE for second year
+1.0	Aniston 's marketing campaign	was success with	airline No. 1 position as brand for second consecutive year
+1.0	second ad	was	released
+1.0	ad	was	released
+1.0	she	became	spokesperson
+1.0	she	became	spokesperson for MyEyeLove Campaign
+1.0	she	spokesperson for	MyEyeLove Campaign
+1.0	she	became In	2016
+1.0	She	was spokesperson From	2012 to 2016
+1.0	She	co-owner of	hair care brand
+1.0	She	was also spokesperson From	2012 to 2016
+1.0	She	was	spokesperson
+1.0	She	was	also spokesperson
+1.0	Unilever	bought	company
+1.0	Aniston	left at	time
+1.0	Unilever	bought company in	2016
+1.0	Aniston	is supporter of	Friends of El Faro
+1.0	orphanage	is in	Tijuana
+1.0	Casa Hogar Sion	orphanage in	Tijuana
+1.0	Aniston	is supporter of	Friends
+1.0	Aniston	is	supporter
+1.0	She	has appeared in	many TV commercials
+1.0	Children	for	Research Hospital
+1.0	She	has appeared in	TV commercials
+1.0	St. Jude	for	Research Hospital
+1.0	September 2008	Stand Up to	Cancer show
+1.0	September 2008	Stand to	Cancer show
+1.0	September	Stand to	Cancer show
+1.0	September	Stand Up to	Cancer show
+1.0	Aniston	directed In	campaign
+1.0	Aniston	directed in	video
+1.0	Aniston	directed In	campaign to Burma
+1.0	Aniston	directed In	campaign to free Burma
+1.0	GLAAD	has	Vanguard Award
+1.0	Aniston	received	GLAAD 's Vanguard Award
+1.0	she	joined Woody Harrelson On	Earth Day 2010
+1.0	she	joined	Woody Harrelson
+1.0	she	joined	Courteney Cox
+1.0	she	joined Courteney Cox On	Earth Day 2010
+1.0	Haitian health care provider Partners	is In	Health
+1.0	women	for	cancers
+1.0	she	was named In	2013
+1.0	Entertainment Industry Foundation	ambassador for	Saks Fifth Avenue Key
+1.0	she	was named	Entertainment Industry Foundation ambassador for Saks Fifth Avenue Key
+1.0	EIF Women	for	Cancer Research Fund
+1.0	she	was named	Entertainment Industry Foundation ambassador
+1.0	she	was	named
+1.0	she	supported Comic Relief In	2015
+1.0	she	supported	Inc. charity
+1.0	she	supported	Comic Relief
+1.0	Aniston	was	honored by SmartWater for her ongoing philanthropic work at special event
+1.0	Aniston	was	honored by SmartWater for her ongoing work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was	In 2016 honored for her ongoing philanthropic work
+1.0	Aniston	was honored for	her philanthropic work at event
+1.0	Aniston	was	honored by SmartWater for her philanthropic work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was	In 2016 honored for her philanthropic work
+1.0	Aniston	was honored for	her work at special event
+1.0	Aniston	was	In 2016 honored for her philanthropic work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was honored for	her work at event
+1.0	Aniston	was honored for	her ongoing work at event
+1.0	Aniston	was	In 2016 honored by SmartWater for her philanthropic work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was	In 2016 honored by SmartWater for her work at event
+1.0	Aniston	was	In 2016 honored by SmartWater for her work at special event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing work at event
+1.0	Aniston	was	In 2016 honored by SmartWater for her work at special event
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was	In 2016 honored by SmartWater for her work
+1.0	Aniston	was	In 2016 honored for her philanthropic work at special event in LA
+1.0	Aniston	was honored for	her ongoing philanthropic work at special event
+1.0	Aniston	was	In 2016 honored by SmartWater for her philanthropic work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was	In 2016 honored for her ongoing philanthropic work at event in LA
+1.0	Aniston	was	In 2016 honored for her philanthropic work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was	honored by SmartWater for her philanthropic work at special event
+1.0	Aniston	was	honored by SmartWater for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was	honored by SmartWater for her work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was honored for	her ongoing philanthropic work
+1.0	Aniston	was honored for	her philanthropic work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was	In 2016 honored for her work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was	honored by SmartWater for her philanthropic work at event in LA
+1.0	Aniston	was honored for	her work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing work
+1.0	Aniston	was	honored by SmartWater for her ongoing work at event in LA
+1.0	Aniston	was	In 2016 honored for her work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was	In 2016 honored by SmartWater for her philanthropic work at special event
+1.0	special event	is in	LA
+1.0	Aniston	was honored for	her ongoing work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was honored for	her ongoing philanthropic work at event
+1.0	Aniston	was	In 2016 honored for her philanthropic work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was	honored by SmartWater for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was	honored by SmartWater for her work at event
+1.0	Aniston	was	honored by SmartWater for her work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was	In 2016 honored for her ongoing philanthropic work at event
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was	In 2016 honored for her ongoing work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was	In 2016 honored for her ongoing work at event in LA
+1.0	Aniston	was	honored by SmartWater for her ongoing philanthropic work at special event in LA
+1.0	Aniston	was	In 2016 honored for her work at event in LA
+1.0	Aniston	was	honored by SmartWater for her philanthropic work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was	honored by SmartWater for her ongoing work
+1.0	Aniston	was honored for	her philanthropic work
+1.0	Aniston	was	In 2016 honored by SmartWater for her philanthropic work
+1.0	Aniston	was	In 2016 honored for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Children	for	Research Hospital
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing philanthropic work
+1.0	Aniston	was	In 2016 honored for her work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was	In 2016 honored for her ongoing philanthropic work at special event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater
+1.0	Aniston	was honored for	her philanthropic work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was	In 2016 honored for her work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was	In 2016 honored by SmartWater for her philanthropic work at event in LA
+1.0	Aniston	was honored for	her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was	honored by SmartWater for her work
+1.0	Aniston	was	honored by SmartWater for her ongoing philanthropic work at event
+1.0	Aniston	was	In 2016 honored by SmartWater for her work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was	honored by SmartWater for her work at special event in LA
+1.0	Aniston	was	honored by SmartWater for her work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was	In 2016 honored for her work at special event in LA
+1.0	Aniston	was honored for	her philanthropic work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was	honored by SmartWater for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was honored for	her ongoing work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was	honored by SmartWater for her ongoing work at special event
+1.0	Aniston	was honored for	her ongoing work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was	In 2016 honored for her work at special event
+1.0	Aniston	was honored for	her ongoing work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was honored for	her philanthropic work at special event
+1.0	Aniston	was	honored by SmartWater for her philanthropic work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was	honored by SmartWater for her ongoing work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was	In 2016 honored for her philanthropic work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was honored for	her ongoing work at event in LA
+1.0	Aniston	was	honored by SmartWater for her philanthropic work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was	honored by SmartWater for her philanthropic work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was honored for	her ongoing work
+1.0	Aniston	was honored for	her ongoing philanthropic work at special event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was	In 2016 honored for her philanthropic work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was	honored by SmartWater for her philanthropic work at special event in LA
+1.0	Aniston	was	honored by SmartWater for her ongoing philanthropic work at event in LA
+1.0	Aniston	was	In 2016 honored for her ongoing work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was	honored by SmartWater for her ongoing work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing work at special event in LA
+1.0	Aniston	was honored for	her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was	In 2016 honored for her philanthropic work at event in LA
+1.0	Aniston	was	honored by SmartWater for her ongoing work at special event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her philanthropic work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was	In 2016 honored for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was honored for	her ongoing philanthropic work at event in LA
+1.0	Aniston	was	honored by SmartWater for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was honored for	her philanthropic work at special event in LA
+1.0	Aniston	was honored for	her work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was	honored by SmartWater for her work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was	honored by SmartWater for her work at event in LA
+1.0	Aniston	was	In 2016 honored for her ongoing work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing philanthropic work at special event
+1.0	Aniston	was	honored by SmartWater for her ongoing work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was	In 2016 honored for her ongoing work at special event in LA
+1.0	Aniston	was honored In	2016
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was	In 2016 honored for her ongoing philanthropic work at special event
+1.0	Aniston	was honored for	her ongoing work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was honored for	her work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was honored for	her philanthropic work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was	honored by SmartWater for her work at special event
+1.0	Aniston	was	honored by SmartWater for her ongoing philanthropic work
+1.0	Aniston	was honored for	her philanthropic work at event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her philanthropic work at special event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing work at event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing philanthropic work at event in LA
+1.0	Aniston	was	honored by SmartWater for her ongoing work at event
+1.0	Aniston	was honored for	her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was honored for	her work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was honored for	her work
+1.0	Aniston	was honored for	her ongoing work at special event in LA
+1.0	Aniston	was honored for	her work at special event in LA
+1.0	Aniston	was	In 2016 honored for her ongoing work
+1.0	Aniston	was	honored by SmartWater for her work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was	In 2016 honored for her philanthropic work at event
+1.0	Aniston	was	In 2016 honored for her work at event
+1.0	Aniston	was	In 2016 honored for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was	honored by SmartWater for her philanthropic work
+1.0	Aniston	was	honored
+1.0	Aniston	was	In 2016 honored for her ongoing work at special event
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing work at special event
+1.0	Aniston	was	honored by SmartWater for her philanthropic work at event
+1.0	Aniston	was	In 2016 honored for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was honored for	her ongoing work at special event
+1.0	Aniston	was	In 2016 honored by SmartWater for her philanthropic work at event
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing philanthropic work at event
+1.0	Aniston	was	In 2016 honored by SmartWater for her philanthropic work for St. Jude 's Children 's Research Hospital
+1.0	St. Jude	for	Research Hospital
+1.0	Aniston	was	In 2016 honored for her work
+1.0	Aniston	was	In 2016 honored for her ongoing work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was honored for	her ongoing philanthropic work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was	In 2016 honored by SmartWater for her philanthropic work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was	In 2016 honored for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was	In 2016 honored for her ongoing work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was honored for	her philanthropic work for St. Jude 's Children 's Research Hospital at special event
+1.0	Aniston	was honored for	her work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was	honored by SmartWater for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital
+1.0	Aniston	was honored by	SmartWater
+1.0	Aniston	was	In 2016 honored by SmartWater for her work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was honored for	her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing philanthropic work at special event in LA
+1.0	Aniston	was	In 2016 honored for her philanthropic work at special event
+1.0	Aniston	was honored for	her work at event in LA
+1.0	Aniston	was	In 2016 honored for her ongoing work at event
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was	In 2016 honored for her work for St. Jude 's Children 's Research Hospital at event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her work at event in LA
+1.0	Aniston	was	In 2016 honored by SmartWater for her ongoing philanthropic work for St. Jude 's Children 's Research Hospital at event
+1.0	Aniston	was	honored by SmartWater for her ongoing work for St. Jude 's Children 's Research Hospital at special event in LA
+1.0	beautiful life	being	able
+1.0	Aniston	spoke of	importance to InStyle magazine
+1.0	Aniston	spoke of	importance in her life to InStyle magazine
+1.0	importance	is in	her life
+1.0	beautiful fortunate life	being	able
+1.0	Aniston	spoke of	importance of philanthropy to InStyle magazine
+1.0	Aniston	spoke of	importance
+1.0	Aniston	spoke of	importance of philanthropy in her life
+1.0	Aniston	spoke of	importance of philanthropy in her life to InStyle magazine stating
+1.0	Aniston	spoke of	importance in her life
+1.0	fortunate life	being	able
+1.0	Aniston	spoke of	importance of philanthropy
+1.0	Aniston	spoke of	importance to InStyle magazine stating
+1.0	Aniston	spoke of	importance of philanthropy to InStyle magazine stating
+1.0	Aniston	spoke of	importance of philanthropy in her life to InStyle magazine
+1.0	Aniston	spoke During	event
+1.0	life	being	able
+1.0	Aniston	spoke of	importance in her life to InStyle magazine stating
+0.5107994804253548	it	so 's way	able
+0.5107994804253548	it	's way	able
+1.0	Aniston 's relationship	was frequently publicized in	press
+1.0	Aniston 's relationship	was	frequently publicized
+1.0	Aniston 's high-profile relationship	was	frequently publicized
+1.0	Aniston 's high-profile relationship	was frequently publicized in	press
+1.0	Aniston 's high-profile relationship	was	publicized
+1.0	Aniston 's relationship	was publicized in	press
+1.0	Aniston	has	high-profile relationship with actor Brad Pitt
+1.0	Aniston 's relationship	was	publicized
+1.0	Aniston 's high-profile relationship	is with	actor Brad Pitt
+1.0	Aniston 's high-profile relationship	was publicized in	press
+1.0	She	married Pitt after	two years
+1.0	July 29 2000	is in	lavish Malibu wedding
+1.0	She	married Pitt on	July 29 2000 in Malibu wedding
+1.0	She	married Pitt on	July 29 2000 in lavish Malibu wedding
+1.0	She	married Pitt on	July 29 2000
+1.0	She	married Pitt after	two years of dating
+1.0	She	married	Pitt
+1.0	they	announced	their separation
+1.0	their marriage	was considered Hollywood success For	few years
+0.32468555244207997	their marriage	was considered For	years
+0.32468555244207997	their marriage	was	considered
+1.0	their marriage	was considered	Hollywood success
+0.32468555244207997	their marriage	was considered For	few years
+1.0	their marriage	was considered Hollywood success For	years
+1.0	their marriage	was considered	rare Hollywood success
+1.0	they	finalized	their divorce
+1.0	he	started	dating soon after split
+1.0	he	dating after	split
+0.48467966057852363	Pitt	had	had unfaithful
+1.0	intense speculation	was During	their divorce proceedings
+1.0	intense speculation	is in	media
+1.0	he	dating soon after	split
+1.0	he	started	dating
+1.0	speculation	was During	their divorce proceedings
+1.0	he	started	dating soon
+1.0	he	started	dating after split
+0.48467966057852363	Pitt	had	had unfaithful to Aniston
+1.0	public 's reaction	was	In following months reported in press
+1.0	public 's reaction	was reported In	months
+1.0	public 's reaction	was	reported
+1.0	T-shirts	appeared throughout	country
+1.0	public 's reaction	was reported In	following months
+1.0	public 's reaction	was reported in	press
+1.0	public 's reaction	was	In months reported in press
+1.0	public	has	reaction toward divorce
+1.0	divorce	made	front-pages of magazines
+1.0	it	be discussed in	media
+1.0	it	be	discussed
+1.0	it	still continues	discussed
+1.0	divorce	made	front-pages
+1.0	it	continues	discussed
+1.0	divorce	made	front-pages of tabloid magazines
+1.0	it	continues	discussed in media
+1.0	divorce	made front-pages for	years
+1.0	it	still continues	discussed in media
+1.0	Nobody	did	anything wrong
+1.0	January 2015 interview	is with	Hollywood Reporter
+1.0	Aniston	commented in	January 2015 interview
+1.0	Aniston	commented in	January 2015 interview with Hollywood Reporter
+1.0	Aniston	commented on	divorce
+1.0	Aniston	commented	stating
+1.0	Nobody	did	anything
+1.0	It	was	like
+1.0	It	was	just like
+1.0	Aniston	to	refusal have
+1.0	split	was	due
+1.0	media reports	speculated In	2005
+1.0	children	is with	Pitt
+1.0	their split	is in	August 2005 Vanity Fair magazine interview
+0.7145117469253559	I	experience for	career
+1.0	her divorce	prompted	her
+1.0	she	was	from whom estranged for nearly decade
+1.0	she	was	from whom estranged for decade
+1.0	her	reach out to	her mother
+1.0	her	mother	Nancy
+1.0	she	was	from whom estranged
+1.0	she	was estranged for	decade
+1.0	she	was estranged for	nearly decade
+1.0	she	was	estranged
+1.0	her	reach out to	Nancy
+1.0	They	became	estranged
+1.0	Nancy	later wrote	book entitled From Mother to Friends
+1.0	Nancy	later wrote	book
+1.0	Nancy	wrote	book entitled From Mother to Friends
+1.0	Nancy	wrote	book entitled From Mother
+1.0	Nancy	wrote	book
+1.0	Nancy	wrote	book entitled
+1.0	Nancy	talked on	television show
+1.0	Nancy	talked about	her daughter
+1.0	They	initially became	estranged
+1.0	Nancy	later wrote	book entitled
+1.0	Nancy	later wrote	book entitled From Mother
+1.0	she	was devastated by	death
+1.0	she	was	devastated
+1.0	her relationship	is with	Pitt
+1.0	Aniston	dated	actor Vince Vaughn
+1.0	Aniston	dated actor Vince Vaughn from	2005
+1.0	Aniston	dated actor Vince Vaughn to	December 2006
+1.0	She	subsequently dated	musician John Mayer
+1.0	She	subsequently dated musician John Mayer from	2008 to 2009
+1.0	She	dated musician John Mayer from	2008 to 2009
+1.0	She	dated	musician John Mayer
+1.0	Aniston	started relationship in	May 2011
+1.0	relationship	is with	actor
+1.0	Aniston	started	relationship
+1.0	Aniston	started	relationship with actor
+1.0	Aniston	purchased home In	January 2012
+1.0	Los Angeles	in	Bel-Air neighborhood
+1.0	Theroux	purchased home In	January 2012
+1.0	Theroux	purchased home for	US$ 22 million
+1.0	Theroux	purchased	home
+1.0	home	is in	Los Angeles 's Bel-Air neighborhood
+1.0	Aniston	purchased	home
+1.0	Aniston	purchased home for	US$ 22 million
+1.0	Aniston	purchased	home in Los Angeles 's Bel-Air neighborhood
+1.0	Theroux	purchased	home in Los Angeles 's Bel-Air neighborhood
+1.0	Theroux	purchased home for	roughly US$ 22 million
+1.0	Aniston	purchased home for	roughly US$ 22 million
+1.0	They	were	married on August 5 2015 at their Bel-Air estate
+1.0	They	were	married
+1.0	They	were married on	August 5 2015
+1.0	They	engaged on	August 10 2012
+1.0	They	became	engaged
+1.0	They	became	engaged on August 10 2012
+1.0	They	were married at	their Bel-Air estate
+1.0	Aniston	spoke of	her Transcendental Meditation practice
+1.0	Aniston	spoke In	2014
+1.0	Aniston	spoke of	her Meditation practice
+1.0	I	Now had	great discovery
+1.0	I	had	great discovery
+1.0	I	had	discovery
+1.0	I	Now had	discovery
+1.0	Forbes	rated Aniston In	2007
+1.0	top 20 richest women	is in	entertainment
+1.0	Forbes	estimated	her worth
+1.0	Forbes	rated	Aniston
+1.0	Forbes	estimated	her net worth
+1.0	Aniston	was included in	Star Salary Top 10 of trade magazine
+1.0	Aniston	was included in	Star Salary Top 10 trade magazine
+1.0	Aniston	was included in	annual Star Salary Top 10 of trade magazine
+1.0	Aniston	was also included in	Star Salary Top 10 trade magazine
+1.0	Aniston	was also included in	Star Salary Top 10
+1.0	Aniston	was also included in	annual Star Salary Top 10 of trade magazine
+1.0	Aniston	was included in	Star Salary Top 10
+1.0	Aniston	was also included in	annual Star Salary Top 10 trade magazine
+1.0	Aniston	was included in	annual Star Salary Top 10 trade magazine
+1.0	Aniston	was also included in	Star Salary Top 10 of trade magazine
+1.0	Aniston	was included in	annual Star Salary Top 10
+1.0	Aniston	was also included in	annual Star Salary Top 10
+1.0	Aniston	was	also included
+1.0	Aniston	was	included
+1.0	Aniston	was	celebrity face
+1.0	Aniston	was	celebrity face of entertainment industry
+1.0	Aniston	was	in October 2007 top-selling celebrity face
+1.0	Aniston	was	in October 2007 celebrity face
+1.0	Aniston	was	in October 2007 celebrity face of entertainment industry
+1.0	Aniston	was	in October 2007 top-selling celebrity face of entertainment industry
+1.0	Aniston	was	top-selling celebrity face
+1.0	top-selling celebrity face	is in	October 2007
+1.0	Aniston	was	top-selling celebrity face of entertainment industry
+1.0	She	was	Hollywood 's most profitable actress
+1.0	She	was	Hollywood 's actress
+1.0	She	was	also Hollywood 's profitable actress
+1.0	She	was	also Hollywood 's most profitable actress
+1.0	She	was	Hollywood 's profitable actress
+1.0	She	was	also Hollywood 's actress
+1.0	Aniston	has on	has Forbes Celebrity 100 list based year since 2001
+1.0	Aniston	topping	list
+1.0	Aniston	topping list in	2003
+1.0	Aniston	has on	has Forbes Celebrity 100 list based on earnings year since 2001
+1.0	Aniston	has on	has Forbes Celebrity 100 list year since 2001
+1.0	Aniston	has	earnings
+1.0	Forbes	listed	Aniston 's earnings
+1.0	3rd	earning	US$ 31 million
+1.0	Aniston	ranked	3rd
+1.0	Her net worth	is	estimated
+1.0	Her worth	is	estimated
+1.0	Aniston	ranked 5th In	2015
+1.0	Aniston	earning	US$ 16.5 million
+1.0	Aniston	ranked	5th on Forbes Top Earning Actresses
+1.0	Aniston	ranked	5th
+1.0	Aniston	earning	US$ 21 million
+1.0	Aniston	ranked In	2016
+1.0	Aniston	ranked	4th on Forbes Top Earning Actresses
+1.0	Aniston	ranked	4th
+1.0	She	has on	has Forbes Top Earning Actresses for 15 years year since 2001
+1.0	She	has on	has Forbes Top Earning Actresses year since 2001
+1.0	Aniston	became	first-ever GQ Woman of Year
+1.0	Aniston	became	GQ Woman of Year
+1.0	Aniston	became	GQ Woman
+1.0	Aniston	became	first-ever GQ Woman
+1.0	Aniston	became In	2005
+1.0	She	has frequently appeared on	People 's list of Beautiful Women
+1.0	She	was	number-one
+1.0	She	has frequently appeared on	People 's annual list of Beautiful Women
+1.0	She	has appeared on	People 's list of Most Beautiful Women
+1.0	She	has frequently appeared on	People 's annual list of Most Beautiful Women
+1.0	People	on	annual list of Most Beautiful Women
+1.0	She	has frequently appeared on	People 's list of Most Beautiful Women
+1.0	She	has appeared on	People 's annual list of Most Beautiful Women
+1.0	She	has appeared on	People 's list of Beautiful Women
+1.0	She	has appeared on	People 's annual list of Beautiful Women
+1.0	number-one	is in	2004
+1.0	She	also topped	magazine 's Dressed List
+1.0	She	topped	magazine 's List
+1.0	She	topped	magazine 's Best List
+1.0	She	topped	magazine 's Best Dressed List
+1.0	magazine	has	Best Dressed List
+1.0	She	topped	magazine 's Dressed List
+1.0	She	also topped	magazine 's Best List
+1.0	She	also topped	magazine 's Best Dressed List
+1.0	She	also topped	magazine 's List
+1.0	She	has	has regular on FHM 's 100 Sexiest Women list since 1996
+1.0	She	ranking at	number 79 in 2012
+1.0	She	has	has regular on FHM 's 100 Sexiest Women list
+1.0	She	ranking at	number 79
+1.0	She	has	has regular
+1.0	FHM	on	100 Sexiest Women list
+1.0	She	has	has regular since 1996
+1.0	number 24	is in	2009
+1.0	number 79	is in	2012
+1.0	Daily Telegraph	reported	sought after body parts of revealed
+0.33766290433090174	Daily Telegraph	sought after	body parts
+0.33766290433090174	Daily Telegraph	most sought after	body parts
+1.0	Daily Telegraph	reported	sought after body parts
+1.0	Daily Telegraph	reported	sought after body parts of rich revealed
+0.33766290433090174	Daily Telegraph	most sought after	body parts of revealed
+1.0	Daily Telegraph	reported	most sought after body parts of revealed
+1.0	Daily Telegraph	reported	sought
+1.0	Daily Telegraph	reported	most sought after body parts
+0.33766290433090174	Daily Telegraph	sought after	body parts of rich revealed
+1.0	Daily Telegraph	reported	most sought
+1.0	Daily Telegraph	reported	most sought after body parts of rich revealed
+0.33766290433090174	Daily Telegraph	sought after	body parts of revealed
+0.33766290433090174	Daily Telegraph	most sought after	body parts of rich revealed
+1.0	Aniston	was	Under category of sought after body shape voted in top three alongside Gisele Bündchen
+1.0	Aniston	was voted Under	category of sought
+1.0	Aniston	was	Under category of sought voted in top three
+1.0	Aniston	was	Under category of most sought after body shape voted alongside Gisele Bündchen
+1.0	Aniston	was voted Under	category of most sought
+1.0	Aniston	was	Under category of sought after body shape voted in top three
+1.0	Aniston	was	Under category of most sought after body shape voted in top three
+1.0	Aniston	was	voted in top three alongside Gisele Bündchen
+1.0	Aniston	was voted in	top three
+1.0	Aniston	was	Under category of sought voted in top three alongside Gisele Bündchen
+1.0	Aniston	was	Under category of most sought voted in top three
+1.0	Aniston	was	Under category voted in top three alongside Gisele Bündchen
+1.0	Aniston	was	Under category of most sought voted in top three alongside Gisele Bündchen
+1.0	Aniston	was voted alongside	Gisele Bündchen
+1.0	Aniston	was voted Under	category
+1.0	Aniston	was	Under category voted in top three
+1.0	Aniston	was	voted
+1.0	Aniston	was	Under category voted alongside Gisele Bündchen
+1.0	Aniston	was	Under category of sought after body shape voted alongside Gisele Bündchen
+1.0	Aniston	was voted Under	category of sought after body shape
+1.0	Aniston	was	Under category of most sought after body shape voted in top three alongside Gisele Bündchen
+1.0	Aniston	was	Under category of most sought voted alongside Gisele Bündchen
+1.0	Aniston	was voted Under	category of most sought after body shape
+1.0	Aniston	was	Under category of sought voted alongside Gisele Bündchen
+1.0	readers	voted	Aniston Sexiest Woman of Time
+1.0	Men	of	Health magazine
+0.21798674533488105	readers	voted In	same year
+0.21798674533488105	readers	voted In	year
+1.0	readers	voted	Aniston Woman of Time
+1.0	she	wore during	her first two years
+1.0	Rachel	became among	women
+1.0	Rachel	became	very popular
+1.0	she	wore during	her first two years on Friends
+1.0	she	wore during	her two years on Friends
+1.0	Rachel	became	popular
+1.0	she	wore during	her two years
+1.0	Aniston	received	star Walk of Fame
+1.0	Aniston	received	star
+1.0	Aniston	received	star on Hollywood Walk on February 22 2012
+1.0	Aniston	received	star Walk of Fame on February 22 2012
+1.0	Aniston	received	star on Hollywood Walk of Fame on February 22 2012
+1.0	Aniston	received	star Walk
+1.0	Aniston	received	star on Hollywood Walk
+1.0	Aniston	received	star on Hollywood
+1.0	Aniston	received	star on Hollywood Walk of Fame
+1.0	Aniston	received	star Walk on February 22 2012
+1.0	star	is located at	6270 Hollywood Boulevard
+1.0	star	is	located
+1.0	It	is	recognized
+1.0	It	is recognized as	STAR 2 462nd
+1.0	100 Most Powerful Actresses	is in	Hollywood
+1.0	number-2	is in	2011
+1.0	she	was ranked number-8 On	Forbes ' list of 100 Powerful Actresses in Hollywood
+1.0	she	was ranked	number-8
+1.0	she	was ranked number-8 On	Forbes ' list of 100 Most Powerful Actresses in Hollywood
+1.0	number-3	is in	2013
+1.0	she	was ranked number-8 in	2009
+1.0	she	number-3 in	2013
+1.0	Jennifer Aniston	wrote essay In	July 2016
+1.0	Jennifer Aniston	wrote essay in	reply
+1.0	Jennifer Aniston	wrote	essay
+1.0	We	are	complete mate with child
+1.0	We	are	complete child
+1.0	We	are	complete with mate
+1.0	Jennifer Aniston	wrote	essay for Huffington Post
+1.0	We	are	complete mate child
+1.0	We	are	complete mate
+1.0	We	are	complete with mate with child
+1.0	We	are	complete with child
+1.0	Jennifer Aniston	wrote essay in	reply to rumors
+1.0	We	are	complete with mate child
+1.0	We	are	complete
+1.0	it	comes to	our bodies
+1.0	We	decide for	ourselves
+0.04233298802032592	We	get	determine
+1.0	We	determine	our own happily ever
+1.0	We	determine	our own ever
+1.0	We	determine	our own
+1.0	Aniston	has	accolades
+1.0	Aniston 's accolades	include	Screen Actors Guild Award
+1.0	Aniston 's accolades	include	Primetime Emmy Award
+1.0	Aniston 's accolades	include	Golden Globe Award

@@ -1,0 +1,1263 @@
+dobj	received reviews	7
+amod	mixed reviews	7
+compound	jennifer aniston	6
+compound	golden award	5
+compound	globe award	5
+compound	screen award	4
+nmod	nominated for award	4
+compound	hollywood reporter	4
+compound	top actresses	4
+compound	box office	4
+compound	actors award	4
+compound	guild award	4
+compound	earning actresses	4
+compound	forbes actresses	4
+amod	best actress	4
+amod	net worth	3
+nmod	ranked on actresses	3
+dobj	include award	3
+compound	jason bateman	3
+amod	next film	3
+amod	romantic comedy	3
+compound	brad pitt	3
+nmod	ranking in number	3
+compound	comedy series	3
+compound	horrible bosses	3
+compound	ferris bueller	2
+amod	special event	2
+nmod	released on december	2
+nmod	walk of fame	2
+compound	sexiest woman	2
+compound	actress dow	2
+dobj	received star	2
+nmod	received for award	2
+compound	owen wilson	2
+amod	romantic film	2
+compound	courteney cox	2
+compound	good girl	2
+compound	actor pitt	2
+compound	charlie day	2
+nmod	relationship with pitt	2
+amod	lead actress	2
+compound	research hospital	2
+compound	paul rudd	2
+nmod	actresses in hollywood	2
+nmod	discussed in media	2
+compound	music video	2
+compound	company films	2
+nmod	go with it	2
+compound	film festival	2
+compound	vince vaughn	2
+compound	comedy film	2
+compound	los angeles	2
+compound	ben stiller	2
+compound	actor aniston	2
+compound	swimming pool	2
+compound	echo films	2
+nmod	number of comedies	2
+compound	opening weekend	2
+nmod	daughter of aniston	2
+compound	production films	2
+dobj	gave review	2
+compound	box success	2
+compound	cougar town	2
+amod	short film	2
+compound	hollywood walk	2
+compound	jason sudeikis	2
+nmod	woman of time	2
+compound	office space	2
+compound	picture perfect	2
+compound	new city	2
+dobj	launched perfume	2
+compound	office success	2
+compound	primetime award	2
+compound	health magazine	2
+compound	daniel barnz	2
+nmod	portraying on award	2
+compound	nancy dow	2
+nmod	award for actress	2
+nmod	appeared in commercials	2
+compound	waldorf school	2
+compound	justin theroux	2
+compound	will forte	2
+compound	film cake	2
+compound	rachel green	2
+nmod	object of affection	2
+compound	emmy award	2
+compound	john aniston	2
+compound	wild west	2
+dobj	have children	2
+compound	bruce almighty	2
+nmod	directed by gordon	2
+amod	outstanding actress	2
+compound	came polly	2
+compound	emirates airline	2
+nmod	earning in year	2
+compound	york city	2
+compound	claire simmons	1
+compound	kristin hahn	1
+dobj	dated vaughn	1
+amod	chronic pain	1
+compound	states television	1
+nmod	starred in me	1
+amod	beautiful fortunate	1
+compound	fiorello school	1
+compound	moments series	1
+nmod	life of crime	1
+nmod	role of geller	1
+compound	film ebert	1
+nmod	taking at office	1
+nmod	bagging as brand	1
+compound	actress paltrow	1
+nmod	directed in campaign	1
+compound	brooklyn decker	1
+compound	living proof	1
+nmod	petty for walls	1
+compound	company entertainment	1
+nmod	comes to bodies	1
+compound	rape network	1
+dobj	originated days	1
+compound	bounty hunter	1
+compound	mark junior	1
+amod	many commercials	1
+compound	myeyelove campaign	1
+dobj	joined society	1
+compound	trade reporter	1
+nmod	event for hospital	1
+nmod	role in film	1
+compound	women list	1
+dobj	believe me	1
+nmod	couple by polls	1
+nmod	born in daughter	1
+dobj	filming scene	1
+dobj	played protagonist	1
+amod	free burma	1
+amod	rare turn	1
+compound	heart smile	1
+compound	vanguard award	1
+compound	emmy nominations	1
+nmod	appeared throughout country	1
+nmod	acting at school	1
+amod	instructional video	1
+compound	movie bosses	1
+nmod	depressed over shows	1
+nmod	directed by bogdanovich	1
+dobj	formed films	1
+dobj	had presence	1
+amod	many critics	1
+nmod	born in dow	1
+compound	sundance festival	1
+dobj	starred worthington	1
+compound	universal pictures	1
+dobj	starred kendrick	1
+compound	beautiful women	1
+amod	few months	1
+nmod	state of mexico	1
+nmod	nominations including win	1
+compound	actor theroux	1
+compound	college roommate	1
+compound	plan entertainment	1
+nmod	comedy about dealer	1
+compound	hollywood hotel	1
+nmod	starred in space	1
+amod	grassroots organization	1
+amod	female characters	1
+compound	eric kohn	1
+dobj	named simmons	1
+amod	independent films	1
+nmod	included on law	1
+nmod	graduated from school	1
+nmod	reviews from critics	1
+nmod	airing of series	1
+nmod	amount of greek	1
+compound	felicity huffman	1
+dobj	offers flipside	1
+compound	heartbreakers video	1
+compound	television musical	1
+nmod	year on list	1
+nmod	philanthropy in life	1
+compound	titular supervisors	1
+nmod	married to theroux	1
+amod	total worldwide	1
+dobj	estimated worth	1
+compound	daily telegraph	1
+nmod	written by rudd	1
+nmod	producers of show	1
+compound	john hawkes	1
+nmod	suited to role	1
+compound	fall lineup	1
+amod	biggest success	1
+nmod	spoke of importance	1
+nmod	entitled from daughter	1
+amod	critically roles	1
+compound	media outlets	1
+compound	toronto festival	1
+nmod	event for cake	1
+nmod	happily for ourselves	1
+compound	stella anastassakis	1
+compound	guest actress	1
+nmod	dating in wedding	1
+nmod	considered for years	1
+dobj	offered spot	1
+dobj	avoid confusion	1
+compound	film series	1
+nmod	wrote in july	1
+nmod	named to campaign	1
+amod	japanese people	1
+nmod	returned following hiatus	1
+compound	spirit award	1
+nmod	adaptation of off	1
+nmod	received for actress	1
+compound	gas station	1
+nmod	series of movies	1
+compound	office party	1
+nmod	shoard of guardian	1
+nmod	role of olivia	1
+compound	tv commercials	1
+nmod	category of actress	1
+nmod	give for career	1
+nmod	included on head	1
+nmod	spoke of practice	1
+amod	ongoing work	1
+amod	popular friends	1
+nmod	appeared with rudd	1
+compound	tye sheridan	1
+amod	american dow	1
+compound	office failure	1
+nmod	stated during event	1
+compound	television career	1
+compound	production entertainment	1
+nmod	era of movies	1
+nmod	work for hospital	1
+nmod	successful at worldwide	1
+nmod	announced on january	1
+dobj	paid actresses	1
+compound	united office	1
+nmod	starred in cake	1
+dobj	outshone performance	1
+nmod	ceo of pictures	1
+amod	paid actresses	1
+nmod	award for lead	1
+amod	female costars	1
+compound	divorce proceedings	1
+nmod	written by wain	1
+nmod	contributions to visibility	1
+compound	musician mayer	1
+dobj	listed earnings	1
+amod	wrong anything	1
+nmod	appeared in wanderlust	1
+nmod	days of lives	1
+dobj	include america	1
+compound	childhood incident	1
+nmod	film in release	1
+nmod	honored by smartwater	1
+nmod	supported by thoroughly	1
+amod	major films	1
+nmod	produced by apatow	1
+compound	television viewers	1
+amod	unfunny cartoon	1
+amod	positive verdict	1
+amod	other charities	1
+dobj	create fragrance	1
+compound	monica geller	1
+nmod	left at time	1
+nmod	wrote to rumors	1
+nmod	revealed by surgeons	1
+nmod	starred in bosses	1
+dobj	directing film	1
+dobj	playing roommate	1
+amod	neurotic days	1
+dobj	includes irish	1
+nmod	support into detection	1
+compound	television friends	1
+nmod	characters in television	1
+amod	real fear	1
+compound	kate hudson	1
+compound	fifth key	1
+nmod	spoke about incident	1
+dobj	gained recognition	1
+compound	tyrannical supervisors	1
+dobj	include back	1
+nmod	placed at office	1
+compound	film space	1
+nmod	starred opposite affleck	1
+amod	modest success	1
+nmod	star on walk	1
+nmod	record for office	1
+dobj	practices karate	1
+nmod	ellwood of hitfix	1
+compound	william macy	1
+amod	plastic surgeon	1
+dobj	retain anything	1
+nmod	starred opposite mohr	1
+compound	day weekend	1
+nmod	premiere of town	1
+dobj	losing money	1
+nmod	received for cake	1
+nmod	along with affleck	1
+nmod	worked for smartwater	1
+compound	indie wire	1
+nmod	separation from pitt	1
+nmod	harkens to days	1
+nmod	contract with arden	1
+nmod	gained among viewers	1
+compound	female lead	1
+amod	romantic comedies	1
+nmod	recognized as one	1
+nmod	cheats on husband	1
+compound	heineken commercial	1
+dobj	starred poots	1
+amod	highest actresses	1
+dobj	get what	1
+compound	people magazine	1
+nmod	avoid with perfume	1
+nmod	portrayed by schwimmer	1
+nmod	days on friends	1
+compound	victor kiriakis	1
+compound	roger ebert	1
+nmod	failure against budget	1
+nmod	contributions to understanding	1
+nmod	nominated for portrayal	1
+nmod	resemblance to reality	1
+nmod	audition for role	1
+dobj	criticized scrutiny	1
+nmod	ends as cartoon	1
+compound	tv series	1
+nmod	starred in film	1
+compound	pool scene	1
+compound	meditation practice	1
+nmod	shot for release	1
+nmod	included with money	1
+nmod	office for weekend	1
+nmod	role as film	1
+amod	old roommate	1
+nmod	included with girl	1
+compound	gerard butler	1
+nmod	portraying on role	1
+nmod	released on july	1
+nmod	one of bosses	1
+nmod	trio of employees	1
+nmod	one of friends	1
+compound	starring vehicle	1
+nmod	honored at event	1
+dobj	has melick	1
+nmod	married after years	1
+nmod	offers in era	1
+nmod	based on fame	1
+compound	breakthrough film	1
+nmod	part of series	1
+nmod	received for role	1
+compound	film work	1
+compound	operating system	1
+nmod	split in interview	1
+compound	stern show	1
+dobj	reprised role	1
+dobj	gained acclaim	1
+compound	movie storks	1
+amod	featured player	1
+nmod	participated in hope	1
+nmod	appeared in film	1
+nmod	debut on nbc	1
+nmod	crazier than patient	1
+amod	animated storks	1
+nmod	starred with foxx	1
+nmod	starred with bateman	1
+nmod	married on august	1
+dobj	going underwater	1
+amod	positive review	1
+compound	julia roberts	1
+nmod	released on june	1
+amod	supporting actress	1
+compound	josh gordon	1
+nmod	claremont in she	1
+dobj	gained reputation	1
+nmod	walk on february	1
+amod	last seasons	1
+compound	series dirt	1
+dobj	named ambassador	1
+dobj	include americares	1
+compound	smith jolie	1
+dobj	turned it	1
+compound	movie bueller	1
+dobj	received nomination	1
+dobj	makes you	1
+nmod	broken in film	1
+amod	overlooked movies	1
+nmod	campaign to burma	1
+nmod	has with idea	1
+nmod	voted alongside cruz	1
+nmod	popular among audiences	1
+compound	warren littlefield	1
+dobj	starred forte	1
+amod	many celebrities	1
+compound	jennifer connelly	1
+amod	romantic mother	1
+nmod	speculation in media	1
+compound	team aniston	1
+amod	aniston guest	1
+nmod	spoke during event	1
+compound	youtube video	1
+compound	matthew perry	1
+nmod	released in april	1
+nmod	played by decker	1
+nmod	named by aniston	1
+nmod	participated for haiti	1
+nmod	role in storks	1
+compound	comedy mother	1
+dobj	watching tv	1
+nmod	released to reviews	1
+compound	critic ebert	1
+nmod	named near dusk	1
+amod	greatest characters	1
+nmod	watching around corner	1
+compound	aveeno skincare	1
+compound	sarah gardner	1
+nmod	released on september	1
+compound	producer hahn	1
+nmod	unfaithful to aniston	1
+nmod	panned by critics	1
+nmod	portrayed in show	1
+nmod	recognized as star	1
+nmod	spot as player	1
+nmod	tripled in product	1
+nmod	do for people	1
+nmod	support into cures	1
+compound	site metacritic	1
+compound	clothes back	1
+nmod	rated as one	1
+compound	will speck	1
+nmod	ranged to perfect	1
+amod	numerous celebrities	1
+compound	garry marshall	1
+compound	joanna aniston	1
+dobj	asks manager	1
+amod	intense years	1
+nmod	included in top	1
+compound	ken marino	1
+nmod	purchased in january	1
+nmod	award for performance	1
+compound	title character	1
+dobj	declared role	1
+compound	kathryn hahn	1
+amod	online interest	1
+amod	female actor	1
+nmod	lived in greece	1
+amod	popular brand	1
+nmod	dating after split	1
+nmod	performed in cast	1
+nmod	starring alongside huston	1
+compound	feeding america	1
+nmod	due to refusal	1
+nmod	nominated by actor	1
+nmod	starring alongside ehrenreich	1
+dobj	placed number	1
+dobj	voicing gardner	1
+compound	jack donaghy	1
+nmod	appeared as spokesmodel	1
+compound	television series	1
+compound	anna kendrick	1
+compound	international festival	1
+compound	hair proof	1
+dobj	played switch	1
+nmod	received on july	1
+amod	tabloid magazines	1
+dobj	makes smile	1
+compound	guinness book	1
+dobj	directed film	1
+dobj	includes amount	1
+compound	actor vaughn	1
+nmod	lot of fun	1
+compound	best list	1
+amod	third episode	1
+nmod	one of women	1
+amod	negative review	1
+amod	dated mayer	1
+compound	el faro	1
+compound	ensemble cast	1
+nmod	actor in may	1
+nmod	survey among patients	1
+nmod	success to date	1
+amod	other ancestry	1
+compound	horror leprechaun	1
+nmod	film of turmoil	1
+nmod	hosted to show	1
+nmod	starred alongside wilson	1
+amod	astringent woman	1
+compound	january interview	1
+dobj	reported most	1
+compound	instyle magazine	1
+compound	golden awards	1
+nmod	born in california	1
+nmod	directed in video	1
+nmod	orphanage in mexico	1
+compound	eb foundation	1
+nmod	released at harrods	1
+nmod	focuses on trio	1
+nmod	starred in mckinnon	1
+compound	elmore leonard	1
+dobj	watching episode	1
+compound	body shape	1
+nmod	appeared on list	1
+nmod	wore during years	1
+nmod	voted in top	1
+dobj	consider her	1
+nmod	opened in february	1
+nmod	estranged for decade	1
+nmod	comedy with sandler	1
+dobj	include hawkes	1
+dobj	starred macy	1
+nmod	adaptation of novel	1
+nmod	asking for reassurance	1
+amod	leading role	1
+amod	much girlfriend	1
+nmod	raises for fund	1
+compound	cove psa	1
+dobj	joined cox	1
+amod	several jobs	1
+nmod	year with family	1
+nmod	supported with jobs	1
+nmod	received on walk	1
+nmod	girlfriend of character	1
+nmod	appeared in object	1
+compound	malibu wedding	1
+nmod	lists of women	1
+nmod	spokesperson of proof	1
+nmod	fear of water	1
+nmod	year for years	1
+amod	emotional turmoil	1
+nmod	ranged from space	1
+dobj	starred hahn	1
+compound	hollywood boulevard	1
+dobj	founded entertainment	1
+compound	kate mckinnon	1
+amod	married couple	1
+nmod	interview following launch	1
+dobj	regret pitt	1
+nmod	received in series	1
+dobj	failed series	1
+compound	health partners	1
+nmod	decide for ourselves	1
+nmod	set of film	1
+dobj	determine own	1
+nmod	honored for work	1
+dobj	released video	1
+compound	sitcom friends	1
+amod	emmy nomination	1
+nmod	lived with anastassakis	1
+compound	series molloy	1
+amod	second ad	1
+amod	gay man	1
+dobj	playing cashier	1
+dobj	has it	1
+compound	sitcom town	1
+amod	commercial breaks	1
+compound	drama society	1
+compound	peter bogdanovich	1
+amod	tenth season	1
+nmod	actor in role	1
+dobj	harasses character	1
+amod	first years	1
+dobj	starred wilson	1
+dobj	include forte	1
+compound	magazine interview	1
+nmod	starred in perfect	1
+compound	andy samberg	1
+amod	female protagonist	1
+compound	office hits	1
+nmod	filming with barnz	1
+nmod	music throughout career	1
+amod	outstanding performance	1
+dobj	affected education	1
+dobj	supported charities	1
+amod	worldwide receipts	1
+dobj	playing psychiatrist	1
+compound	huffington post	1
+nmod	nomination in category	1
+compound	screen presence	1
+nmod	directed by barnz	1
+compound	off back	1
+amod	financial success	1
+nmod	top of reporter	1
+compound	sam worthington	1
+nmod	kohn of wire	1
+amod	philanthropic work	1
+dobj	received release	1
+amod	satiric fire	1
+amod	few years	1
+compound	celebrity face	1
+nmod	win for actress	1
+amod	lukewarm reception	1
+compound	saturday live	1
+dobj	include fisher	1
+compound	tv cucamonga	1
+compound	swimming scene	1
+nmod	one of characters	1
+nmod	dubbed by critics	1
+nmod	worked in campaign	1
+nmod	believe in pain	1
+compound	publicity campaign	1
+amod	third perfume	1
+nmod	levels of mercury	1
+nmod	produced by anderson	1
+compound	reel series	1
+dobj	joined stiller	1
+nmod	reaction toward divorce	1
+amod	intense speculation	1
+amod	lowest point	1
+nmod	sought after parts	1
+dobj	started relationship	1
+nmod	riding around pool	1
+dobj	wrote essay	1
+nmod	consider in way	1
+nmod	located at boulevard	1
+dobj	murder trio	1
+nmod	cast for friends	1
+nmod	book of records	1
+dobj	wanted aniston	1
+compound	camp cucamonga	1
+compound	kris kristofferson	1
+nmod	tripled within hours	1
+amod	north carolina	1
+compound	cancer fund	1
+compound	robin wright	1
+compound	ginnifer goodwin	1
+compound	avenue key	1
+nmod	directed by marshall	1
+compound	care partners	1
+nmod	script for wanderlust	1
+compound	tijuana mexico	1
+compound	critics award	1
+compound	hollywood surgeons	1
+amod	entertaining space	1
+compound	beautiful woman	1
+compound	largest office	1
+compound	dressed list	1
+compound	catherine shoard	1
+compound	mos def	1
+nmod	school of art	1
+nmod	appear on town	1
+dobj	played way	1
+nmod	paycheck for season	1
+compound	body parts	1
+dobj	drove tricycle	1
+nmod	starred opposite bacon	1
+amod	blessed relief	1
+compound	tim robbins	1
+compound	thriller derailed	1
+nmod	list of women	1
+dobj	include foundation	1
+nmod	worked under contract	1
+compound	hollywood success	1
+amod	romantic movies	1
+nmod	bought by pictures	1
+compound	tv actresses	1
+nmod	promise of seinfeld	1
+compound	united states	1
+nmod	moved to city	1
+compound	rhys ifans	1
+nmod	year on actresses	1
+compound	tom petty	1
+compound	salary top	1
+nmod	started in december	1
+dobj	pull herself	1
+nmod	spoke to magazine	1
+nmod	released on weekend	1
+amod	wilmington north	1
+nmod	lived in home	1
+dobj	disliked hairstyle	1
+amod	most actresses	1
+nmod	dealer with family	1
+compound	telly savalas	1
+nmod	returned to work	1
+nmod	importance of philanthropy	1
+compound	director judge	1
+compound	mike judge	1
+compound	liz lemon	1
+compound	comic relief	1
+dobj	plays therapist	1
+nmod	opened in theaters	1
+compound	courteney arquette	1
+dobj	tripled interest	1
+nmod	parts of famous	1
+dobj	carried survey	1
+nmod	deserves for it	1
+dobj	dating jolie	1
+amod	latter film	1
+dobj	build picture	1
+compound	drama film	1
+nmod	paid with paycheck	1
+dobj	starred ifans	1
+nmod	school of arts	1
+compound	colin farrell	1
+compound	season premiere	1
+nmod	starred with farrell	1
+amod	best lead	1
+nmod	return to television	1
+compound	series musical	1
+compound	high school	1
+amod	formulaic movies	1
+compound	jennifer viral	1
+nmod	played in almighty	1
+amod	named perfume	1
+amod	most women	1
+amod	elementary school	1
+amod	disposable perfect	1
+nmod	dubbed as return	1
+dobj	deserves accolades	1
+compound	saks key	1
+nmod	was during proceedings	1
+nmod	number at office	1
+nmod	divorce on october	1
+nmod	woman of year	1
+compound	box hits	1
+amod	following months	1
+dobj	praised performance	1
+amod	final season	1
+nmod	voted in year	1
+nmod	starred in episode	1
+compound	guest star	1
+amod	most woman	1
+nmod	seasons of nominations	1
+nmod	regular on molloy	1
+compound	gwyneth paltrow	1
+dobj	topped list	1
+nmod	ways around prohibition	1
+dobj	criticized objectification	1
+nmod	sudeikis in productions	1
+dobj	bagging position	1
+amod	grossing worldwide	1
+compound	the reporter	1
+compound	media reports	1
+nmod	working as waitress	1
+amod	aggressive dentist	1
+nmod	released on march	1
+dobj	called room	1
+nmod	episode of dirt	1
+nmod	appearance in comedy	1
+compound	cox arquette	1
+compound	film entertainment	1
+dobj	murder supervisors	1
+nmod	voted under category	1
+nmod	produced by baumbach	1
+nmod	entitled from mother	1
+compound	w hotel	1
+nmod	brand in uae	1
+dobj	include robbins	1
+nmod	commercials for hospital	1
+dobj	topping list	1
+dobj	includes english	1
+nmod	felt like all	1
+compound	howard show	1
+nmod	voted as couple	1
+amod	refreshing flipside	1
+nmod	starring as part	1
+compound	ben affleck	1
+nmod	known for role	1
+nmod	actress in series	1
+compound	adam sandler	1
+nmod	children with pitt	1
+nmod	three for actress	1
+amod	plastic surgeons	1
+compound	research foundation	1
+dobj	portraying green	1
+dobj	includes scottish	1
+nmod	one of actresses	1
+dobj	played one	1
+compound	muddling through	1
+nmod	any of performances	1
+nmod	appeared in march	1
+nmod	role of dawson	1
+nmod	talked on show	1
+compound	friends image	1
+compound	bike messenger	1
+compound	angeles station	1
+compound	elizabeth arden	1
+nmod	regular on list	1
+nmod	starring as regular	1
+nmod	included on leap	1
+dobj	included roles	1
+dobj	jennifer aniston	1
+dobj	encouraged aniston	1
+compound	television role	1
+compound	transcendental practice	1
+nmod	starred in day	1
+compound	jim carrey	1
+nmod	made for years	1
+amod	independent film	1
+compound	industry ambassador	1
+dobj	played girlfriend	1
+compound	tv star	1
+nmod	enrolled at school	1
+nmod	parts of rich	1
+amod	top women	1
+compound	eif women	1
+nmod	each of millers	1
+amod	powerful actresses	1
+dobj	delivering verdict	1
+dobj	earned award	1
+dobj	stalks donaghy	1
+dobj	do something	1
+compound	film award	1
+nmod	relationship with director	1
+dobj	joined effort	1
+nmod	relationship with theroux	1
+compound	vanity interview	1
+compound	sherman oaks	1
+nmod	starred with day	1
+nmod	face of airline	1
+amod	richest women	1
+dobj	include junior	1
+nmod	broken with image	1
+compound	woody harrelson	1
+compound	earth day	1
+dobj	found ways	1
+amod	adriana barraza	1
+nmod	create for men	1
+nmod	back to angeles	1
+compound	ticket sales	1
+compound	television show	1
+amod	great discovery	1
+compound	nbc drama	1
+dobj	costarred butler	1
+nmod	grossed during weekend	1
+nmod	women in entertainment	1
+nmod	reported in press	1
+compound	sexiest list	1
+nmod	essay for post	1
+compound	jay mohr	1
+amod	recent rumors	1
+compound	adult cartoon	1
+nmod	support into treatment	1
+dobj	starring kristofferson	1
+nmod	release of system	1
+nmod	starred in bateman	1
+compound	quantum leap	1
+compound	national network	1
+nmod	film of fire	1
+nmod	cast in commercial	1
+compound	day office	1
+dobj	has aniston	1
+nmod	appeared with money	1
+amod	haitian partners	1
+nmod	released in us	1
+nmod	ambassador for key	1
+dobj	starred barraza	1
+nmod	starred with sudeikis	1
+amod	numerous outlets	1
+compound	wes anderson	1
+dobj	described performance	1
+compound	kevin bacon	1
+amod	perfect woman	1
+amod	daytime drama	1
+nmod	cast as green	1
+nmod	appeared on show	1
+dobj	played character	1
+dobj	joined others	1
+dobj	received award	1
+dobj	has lot	1
+compound	united television	1
+nmod	daughter of dow	1
+dobj	prompted her	1
+nmod	filmed in summer	1
+nmod	publicized in press	1
+dobj	failed edge	1
+amod	few theaters	1
+nmod	commercials for products	1
+nmod	head of entertainment	1
+compound	goes viral	1
+nmod	joined on day	1
+dobj	prove honesty	1
+dobj	married pitt	1
+dobj	rated aniston	1
+compound	ross geller	1
+dobj	did anything	1
+compound	sequel bosses	1
+compound	nbc entertainment	1
+dobj	shooting film	1
+amod	younger girlfriend	1
+amod	opposite stiller	1
+nmod	became in deal	1
+compound	drug dealer	1
+compound	magazine reporter	1
+nmod	slaughter of dolphins	1
+dobj	raise money	1
+amod	american actress	1
+dobj	aniston woman	1
+dobj	protect people	1
+dobj	won award	1
+nmod	visibility of transgender	1
+compound	telemarketer waitress	1
+dobj	shot video	1
+compound	actor savalas	1
+dobj	tops any	1
+compound	office worldwide	1
+amod	grandmother anastassakis	1
+nmod	two for actress	1
+nmod	became in january	1
+amod	small amount	1
+nmod	played by sandler	1
+compound	cure campaign	1
+nmod	earned over weekend	1
+nmod	dating on july	1
+amod	lifelong fear	1
+compound	budokan karate	1
+nmod	player on live	1
+compound	film performance	1
+amod	fourth scent	1
+compound	studio films	1
+dobj	included role	1
+nmod	moved to eddystone	1
+nmod	do for living	1
+nmod	turn for aniston	1
+nmod	cause of split	1
+nmod	friends of faro	1
+compound	august interview	1
+nmod	led to fear	1
+nmod	face of industry	1
+compound	care proof	1
+nmod	years on friends	1
+nmod	spokesmodel for nutrisystem	1
+nmod	grossed by june	1
+nmod	worked over year	1
+dobj	music videos	1
+nmod	look like what	1
+nmod	included with cake	1
+compound	hogar sion	1
+amod	new face	1
+dobj	playing harrod	1
+compound	john melick	1
+dobj	starred huffman	1
+nmod	gardner alongside grammer	1
+compound	seth gordon	1
+amod	forbes list	1
+nmod	received on april	1
+compound	broadcast award	1
+compound	provider partners	1
+compound	entertainment ambassador	1
+nmod	devastated by death	1
+dobj	included cucamonga	1
+compound	gq woman	1
+compound	the hunter	1
+nmod	received with critics	1
+compound	christmas party	1
+nmod	spokesperson of skincare	1
+amod	limited release	1
+dobj	have fear	1
+dobj	include polly	1
+nmod	commented in interview	1
+nmod	star on premiere	1
+amod	worldwide recognition	1
+amod	opposite bateman	1
+nmod	filming on times	1
+amod	second year	1
+nmod	discouraged despite career	1
+dobj	practices yoga	1
+compound	dolphin meat	1
+compound	comedy bosses	1
+amod	increased visibility	1
+amod	best friends	1
+amod	same way	1
+dobj	included leprechaun	1
+nmod	outlook toward life	1
+nmod	praised by critics	1
+nmod	included in friends	1
+amod	spirited turn	1
+compound	drama cake	1
+nmod	hiatus from cinema	1
+compound	isla fisher	1
+amod	original plans	1
+amod	recent performance	1
+amod	tina harrod	1
+compound	my friend	1
+compound	along polly	1
+nmod	nominated for girl	1
+dobj	supported relief	1
+dobj	failed through	1
+compound	alden ehrenreich	1
+amod	new perfume	1
+compound	review metacritic	1
+compound	film perfect	1
+dobj	described it	1
+compound	melissa etheridge	1
+amod	unglamorous cashier	1
+amod	most actress	1
+compound	incest network	1
+nmod	pull of it	1
+nmod	wrote in reply	1
+nmod	played by rudd	1
+nmod	released for smartwater	1
+dobj	approached littlefield	1
+dobj	finalized divorce	1
+amod	complicated relationship	1
+amod	positive reviews	1
+nmod	detection for cancers	1
+nmod	married for years	1
+nmod	languishing in series	1
+nmod	talked about daughter	1
+nmod	starred in party	1
+compound	cancer show	1
+compound	world book	1
+compound	jane claremont	1
+nmod	actress in picture	1
+compound	b entertainment	1
+nmod	cast of films	1
+amod	favorite couple	1
+nmod	appeared in friends	1
+amod	friends perry	1
+amod	unsuccessful shows	1
+nmod	written by marino	1
+amod	complete performance	1
+dobj	received salary	1
+nmod	millers in carolina	1
+nmod	cast in role	1
+dobj	live life	1
+compound	performing arts	1
+dobj	include network	1
+dobj	greeted film	1
+nmod	kiriakis on drama	1
+amod	consecutive year	1
+compound	abuse network	1
+nmod	spokesperson for campaign	1
+nmod	complete with mate	1
+nmod	interview with reporter	1
+dobj	undiagnosed dyslexia	1
+compound	entertainment industry	1
+nmod	gained for performance	1
+dobj	supports hospital	1
+nmod	twist on old	1
+dobj	announced separation	1
+nmod	campaign for airline	1
+compound	david wain	1
+compound	research fund	1
+compound	our back	1
+compound	brad grey	1
+amod	appropriate accolades	1
+compound	paramount pictures	1
+nmod	attended by celebrities	1
+compound	fair interview	1
+compound	drink smartwater	1
+nmod	dawson in life	1
+nmod	estranged from mother	1
+nmod	couple by magazines	1
+nmod	lived for year	1
+nmod	worked on perfume	1
+nmod	wrote to friends	1
+dobj	bought company	1
+nmod	sought after shape	1
+nmod	relationship with geller	1
+amod	beautiful relationship	1
+dobj	received nominations	1
+nmod	airing in may	1
+dobj	join commune	1
+nmod	seasons of friends	1
+dobj	purchased home	1
+nmod	money for sion	1
+compound	day off	1
+amod	first role	1
+nmod	working as messenger	1
+amod	first vehicle	1
+compound	laguardia school	1
+compound	television adaptation	1
+amod	same year	1
+amod	local school	1
+compound	film adaptation	1
+dobj	include def	1
+nmod	prove to girlfriend	1
+compound	foundation ambassador	1
+amod	funny bit	1
+dobj	wrote book	1
+amod	other roles	1
+nmod	readers of magazine	1
+compound	boone junior	1
+compound	keith phipps	1
+nmod	released in london	1
+compound	television shows	1
+dobj	riding tricycle	1
+compound	alex aniston	1
+nmod	included in lists	1
+nmod	relationship with actor	1
+nmod	found in meat	1
+nmod	worked on grave	1
+dobj	grossed worldwide	1
+nmod	ranking at number	1
+dobj	give experience	1
+nmod	category of the	1
+nmod	falls for man	1
+nmod	starred for judge	1
+nmod	acting at age	1
+nmod	directed by roberts	1
+nmod	brand for year	1
+nmod	supporter of friends	1
+nmod	said in interview	1
+amod	second perfume	1
+compound	gems productions	1
+nmod	directed by speck	1
+nmod	starred in marley	1
+compound	marketing campaign	1
+amod	beautiful women	1
+nmod	received for contributions	1
+amod	rare success	1
+dobj	earned total	1
+nmod	role in bosses	1
+compound	cult space	1
+nmod	commented on divorce	1
+compound	alexandre moors	1
+compound	director barnz	1
+compound	branding issues	1
+nmod	ranked on list	1
+compound	toni collette	1
+dobj	had discovery	1
+nmod	visibility of gay	1
+compound	brand proof	1
+dobj	bear resemblance	1
+compound	film leprechaun	1
+amod	lavish wedding	1
+nmod	along with connelly	1
+nmod	reach to mother	1
+dobj	cast her	1
+amod	profitable actress	1
+nmod	joined in psa	1
+nmod	protect from levels	1
+nmod	married to pitt	1
+nmod	lived as child	1
+nmod	role as kiriakis	1
+nmod	direct by paltrow	1
+compound	mickey dawson	1
+compound	aniston viral	1
+compound	production budget	1
+compound	jack huston	1
+nmod	season of rock	1
+compound	new mexico	1
+compound	los station	1
+nmod	born in city	1
+nmod	dream for insomniac	1
+nmod	hours of release	1
+nmod	shown at festival	1
+amod	annual list	1
+nmod	episode of friends	1
+nmod	rumors about her	1
+nmod	nominated for awards	1
+nmod	described as mishmash	1
+dobj	had role	1
+dobj	set record	1
+compound	office manager	1
+nmod	said in life	1
+amod	longtime therapist	1
+amod	most people	1
+amod	annual top	1
+dobj	support research	1
+compound	noah baumbach	1
+amod	acclaimed roles	1
+amod	italian immigrant	1
+dobj	hosted stand	1
+compound	fake family	1
+dobj	subsequently mayer	1
+dobj	attending school	1
+compound	jamie foxx	1
+compound	drama friends	1
+nmod	criticized with child	1
+compound	david schwimmer	1
+compound	night live	1
+compound	gregory ellwood	1
+nmod	based on earnings	1
+nmod	worked in productions	1
+nmod	home in neighborhood	1
+nmod	visibility of bisexual	1
+compound	motion picture	1
+dobj	do friends	1
+compound	states office	1
+nmod	along with goodwin	1
+nmod	visibility of lesbian	1
+amod	other films	1
+compound	star top	1
+nmod	reassurance about career	1
+amod	opening weekend	1
+dobj	named lolavie	1
+compound	action film	1
+compound	judd apatow	1
+nmod	married at estate	1
+amod	toxic levels	1
+dobj	supported herself	1
+nmod	directed by moors	1
+nmod	played by aniston	1
+nmod	school of music	1
+compound	yellow birds	1
+compound	celebrity list	1
+dobj	stop slaughter	1
+compound	angelina jolie	1
+nmod	nominated for actress	1
+amod	modern life	1
+compound	globe awards	1
+compound	christmas office	1
+compound	association award	1
+compound	screenwriter theroux	1
+nmod	gardner alongside samberg	1
+amod	fortunate life	1
+compound	comedy wanderlust	1
+nmod	appeared in episode	1
+dobj	starring wright	1
+amod	independent award	1
+nmod	starring alongside collette	1
+nmod	appeared in two	1
+dobj	raises funds	1
+nmod	starring alongside sheridan	1
+nmod	reported in months	1
+nmod	season of friends	1
+nmod	struggles with pain	1
+nmod	became among women	1
+nmod	approached at station	1
+compound	imogen poots	1
+nmod	actresses of time	1
+compound	hair products	1
+dobj	voted woman	1
+amod	wide release	1
+amod	various commercials	1
+amod	recent performances	1
+nmod	event in la	1
+nmod	list of actresses	1
+nmod	role on rock	1
+amod	dramatic turn	1
+dobj	created scent	1
+nmod	death of therapist	1
+nmod	tops with turn	1
+dobj	portraying woman	1
+nmod	supported by celebrities	1
+dobj	include omnipeace	1
+nmod	relief of breaks	1
+nmod	character of rachel	1
+amod	critical acclaim	1
+compound	kelsey grammer	1
+amod	new spokesperson	1
+nmod	protagonist in number	1
+compound	box worldwide	1
+compound	feature length	1
+compound	medical foundation	1
+nmod	stretched to length	1
+compound	casa sion	1
+nmod	unfaithful with jolie	1
+nmod	born in oaks	1
+nmod	listed for year	1
+nmod	performance in film	1
+nmod	face in october	1
+dobj	put women	1
+nmod	ranked at number	1
+compound	timothy olyphant	1
+compound	beverly hillbillies	1
+nmod	divorced from pitt	1
+nmod	engaged on august	1
+dobj	garnered excitement	1
+nmod	received for seasons	1
+compound	dear life	1
+nmod	portraying on friends	1
+amod	rival harrod	1
+compound	war film	1
+compound	box failure	1
+nmod	popular during airing	1
+compound	guest roles	1
+nmod	appeared in series	1
+nmod	drove into pool	1
+nmod	maintained for weeks	1
+compound	movie cucamonga	1
+amod	windows system	1
+dobj	joined harrelson	1
+compound	john mayer	1
