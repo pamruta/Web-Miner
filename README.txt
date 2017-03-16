@@ -28,8 +28,8 @@ We have provided here scripts for Phrase and Relation Extraction using -
 	=> Output of phrase-parser on Aniston.txt can be found in file: 
 	Aniston-Phrase-Parser-Output.txt
 
-	=> Perl script <phrase-extraction.pl> processes parser-output by extracting
-	phrases from the parsed text.
+	=> Perl script <phrase-extraction.pl> processes the parser-output by extracting
+	phrases from parsed text.
 
 	Usage: perl ./phrase-extraction.pl PHRASE-PARSER-OUTPUT
 
@@ -38,7 +38,7 @@ We have provided here scripts for Phrase and Relation Extraction using -
 
 	Note: the output of <phrase-extraction.pl> is tab-separated and can be easily
 	exported to Excel or MySQL. Simple 'grep' command on this file will extract
-	phrases matching the given patterns. e.g.
+	phrases matching the given patterns. e.g. 
 
 	grep "\tnominated for " Aniston-Phrase-Table.txt
 	grep "\tmarried " Aniston-Phrase-Table.txt
@@ -60,7 +60,7 @@ We have provided here scripts for Phrase and Relation Extraction using -
 	=> Perl script <binary-relations.pl> processes dependency-parser output by extracting
 	binary relations (dependency paths) from the parsed text.
 
-	Usage: binary-relations.pl DEP-PARSER-OUTPUT
+	Usage: per ./binary-relations.pl DEP-PARSER-OUTPUT
 
 	=> Output of <binary-relations.pl> on sample file: Aniston-Dep-Parser-Output.txt is
 	stored in file: Aniston-Dep-Paths.txt
@@ -72,10 +72,10 @@ We have provided here scripts for Phrase and Relation Extraction using -
 
 [3] OpenIE: http://nlp.stanford.edu/software/openie.html
 
-	OpenIE is already included in Stanford CoreNLP library.
+	OpenIE (stands for Open Information Extraction) is already included in the CoreNLP library.
 	Directory <open-ie> contains following files:
 
-	=> run-openie.sh - this runs the Stanford OpenIE to extract subject-verb-object
+	=> run-openie.sh - this runs the Stanford OpenIE program to extract subject-verb-object
 	   relations from the given text.
 
 	   Usage: ./run-openie.sh input-file
