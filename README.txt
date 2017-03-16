@@ -1,9 +1,11 @@
 
-Use Python Notebook Fetch-HTML.ipynb to fetch an HTML page from a given url,
-and convert it to plain-text format. 
+# Information Extraction and Text Mining from Web / Wikipedia
 
-File Aniston.txt is created by python script Fetch-HTML.ipynb by fetching
-Jennifer Aniston's Wikipedia Page: https://en.wikipedia.org/wiki/Jennifer_Aniston
+Use python program <fetch-html.py> to fetch an HTML page from a given url,
+and convert it to plain-text format.
+
+File Aniston.txt is created by script <fetch-html.py> by fetching Jennifer 
+Aniston's Wikipedia Page at: https://en.wikipedia.org/wiki/Jennifer_Aniston
 
 Download Stanford Parser and CoreNLP library from -
 
@@ -35,8 +37,8 @@ We have provided here scripts for Phrase and Relation Extraction using -
 	can be found in file: Aniston-Phrase-Table.txt
 
 	Note: the output of <phrase-extraction.pl> is tab-separated and can be easily
-	exported to Excel or MySQL database. Simple 'grep' command on this file will extract
-	phrases matching given patterns. e.g.
+	exported to Excel or MySQL. Simple 'grep' command on this file will extract
+	phrases matching the given patterns. e.g.
 
 	grep "\tnominated for " Aniston-Phrase-Table.txt
 	grep "\tmarried " Aniston-Phrase-Table.txt
@@ -47,7 +49,7 @@ We have provided here scripts for Phrase and Relation Extraction using -
 	Directory <dep-parser> contains scripts for processing the parser-output in 
 	typed-dependency format.
 
-	=> run-dep-parser.sh - runs Stanford Parser on given text file, to produce the output
+	=> run-dep-parser.sh - runs stanford-parser on given text file, to produce the output
 	in dependency format.
 
 	Usage: ./run-dep-parser.sh input-file
@@ -64,9 +66,9 @@ We have provided here scripts for Phrase and Relation Extraction using -
 	stored in file: Aniston-Dep-Paths.txt
 
 	Note: The current version only extracts binary-relations as produced by dependency-parser,
-	so multi-word expressions like "actors guild award", "golden globe award" are split into
-	binary relations: "guild award", "globe award", "golden award". We are working on fixing
-	this issue on high-priority.
+	so multi-word expressions like "screen actors guild award" are split into binary relations: 
+	"guild award", "screen award", "actors award" etc. We are working on addressing this issue
+	as our top-priority.
 
 [3] OpenIE: http://nlp.stanford.edu/software/openie.html
 
@@ -74,13 +76,13 @@ We have provided here scripts for Phrase and Relation Extraction using -
 	Directory <open-ie> contains following files:
 
 	=> run-openie.sh - this runs the Stanford OpenIE to extract subject-verb-object
-	   patterns from given text.
+	   relations from the given text.
 
 	   Usage: ./run-openie.sh input-file
 
-	=> File Aniston-OpenIE-Output.txt shows sample phrases extracted by OpenIE on
+	=> File Aniston-OpenIE-Output.txt shows phrases extracted by OpenIE on sample text file:
 	   Aniston.txt
 
-	Note: Presently, the coreference resolution is not handled, to resolve pronouns
-	like 'She', 'Her' etc. There is an option to do so in Open-IE, but it takes longer
+	Note: Presently, the coreference resolution is not handled, to resolve pronouns / references
+	like 'She', 'Her father' etc. There is an option to do so in Open-IE, but it takes longer
 	processing time and memory.
