@@ -56,7 +56,7 @@ while(<FILE>)
 			$tokens[$ind2] = $w2;
 		}
 
-		# compounds and adjectives
+		# compounds and adjectives 
 		if($rel eq "compound" || $rel eq "amod")
 		{
 			$modifier{$ind1}{$ind2} = 1;
@@ -66,7 +66,7 @@ while(<FILE>)
 		{
 			push @{$attachments{$ind2}}, $w1;
 		}
-		# prepositions
+		# prepositional attachments
 		elsif($rel =~ /^nmod:(.*)/)
 		{
 			$prep = $1;
