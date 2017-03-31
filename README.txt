@@ -59,17 +59,8 @@ We have provided here scripts for Phrase and Relation Extraction using -
 	=> Output of dependency parser on sample file Aniston.txt can be found in file:
 	Aniston-Dep-Parser-Output.txt
 
-	=> Perl script <binary-relations.pl> processes dependency-parser output by extracting
-	binary relations (dependency paths) from the parsed text.
-
-		Usage: perl ./binary-relations.pl DEP-PARSER-OUTPUT
-
-	=> Output of <binary-relations.pl> on sample file: Aniston-Dep-Parser-Output.txt is
-	stored in file: Aniston-Binary-Relations.txt
-
-	Note: This script only extracts binary-relations as produced by dependency-parser,
-	so multi-word expressions like "screen actors guild award" are split into binary relations: 
-	"guild award", "screen award", "actors award" etc.
+	=> dep-parser/README.txt describes various scripts provided in ./dep-parser directory
+	to process the output of dependency-parser
 
 [3] OpenIE: http://nlp.stanford.edu/software/openie.html
 
