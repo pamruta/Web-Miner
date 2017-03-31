@@ -1,7 +1,7 @@
 
 # Usage: binary-relations.pl dependency-parser-output
 
-# takes the output of dependency-parser to extract binary relations
+# extracts binary relations from the output of dependendency parser
 
 open(FILE, $ARGV[0]);
 while(<FILE>)
