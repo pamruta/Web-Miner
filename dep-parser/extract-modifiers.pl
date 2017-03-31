@@ -4,6 +4,7 @@
 # extracts modifiers from the output of dependendency parser
 # this includes compound nouns, plus, the adjectives
 # attached to simple and compound nouns
+# e.g. "romantic comedy", "toronto international film festival"
 
 open(FILE, $ARGV[0]);
 while(<FILE>)
