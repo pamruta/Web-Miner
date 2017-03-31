@@ -3,7 +3,11 @@
 
 # extracts prepositions from the output of dependendency parser
 # includes prepositions attached to simple or compound nouns
-# along with the adjective modifiers if any
+# along with adjective modifiers, if any
+
+# e.g. daughter of greek-born actor john aniston
+# has a preposition "daughter-of" attached to compound-noun 
+# "greek-born actor john aniston"
 
 open(FILE, $ARGV[0]);
 while(<FILE>)
@@ -12,11 +16,11 @@ while(<FILE>)
 	# blank line at the end of sentence
 	if(/^\s*$/)
 	{
-		# finding tokens which are modified 
+		# tokens modified by adjectives / compounds
 		for $ind1 (keys %modifier)
 		{
 			$mod = "";
-			# sorting tokens by index
+			# sorting modifiers by index
 			for $ind2 (sort keys %{$modifier{$ind1}})
 			{
 				$mod .= "$tokens[$ind2] ";
@@ -29,10 +33,10 @@ while(<FILE>)
 		# finding token indices with prepositional attachments
 		for $ind (keys %preposition)
 		{
-			# get each preposition attached to this index
+			# get all prepositions attached to this index
 			for $prep (@{$preposition{$ind}})
 			{
-				$freq_preposition{"$prep $tokens[$ind]"}++;
+				$freq_preposition{"$prep\t$tokens[$ind]"}++;
 			}
 		}
 		@tokens = ();
