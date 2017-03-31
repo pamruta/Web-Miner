@@ -1,7 +1,8 @@
 
 # Usage: dependency-relations.pl dependency-parser-output
 
-# extracts dependency-paths from the dependency-parser output
+# extracts dependency-relations from the dependency-parser output
+# includes verb-object, adjective-modifier, compound-noun and prepositional relations
 
 open(FILE, $ARGV[0]);
 while(<FILE>)
@@ -25,18 +26,18 @@ while(<FILE>)
 			$freq_pattern{$mod}++;
 		}
 
-		# finding token indices with prepositional attachments
-		for $ind (keys %preposition)
+		# get token indices with prepositional or verb attachments
+		for $ind (keys %attachments)
 		{
-			# get all prepositions attached to this index
-			for $prep (@{$preposition{$ind}})
+			# get all attached verbs / prepositions for this index
+			for $attach (@{$attachments{$ind}})
 			{
-				$freq_pattern{"$prep $tokens[$ind]"}++;
+				$freq_pattern{"$attach $tokens[$ind]"}++;
 			}
 		}
 		@tokens = ();
 		%modifier = ();
-		%preposition = ();
+		%attachments = ();
 	}
 	elsif(/(.*)\((.*)\-(\d+), (.*)\-(\d+)\)/)
 	{
@@ -60,13 +61,18 @@ while(<FILE>)
 		{
 			$modifier{$ind1}{$ind2} = 1;
 		}
+		# verb-object relations
+		elsif($rel eq "dobj")
+		{
+			push @{$attachments{$ind2}}, $w1;
+		}
 		# prepositions
 		elsif($rel =~ /^nmod:(.*)/)
 		{
 			$prep = $1;
 			if($prep !~ /^(npmod|poss|tmod)$/)
 			{
-				push @{$preposition{$ind2}}, "$w1 $prep";
+				push @{$attachments{$ind2}}, "$w1 $prep";
 			}
 		}
 	}
