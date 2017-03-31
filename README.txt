@@ -1,5 +1,8 @@
 
-# Information Extraction and Text Mining from Web / Wikipedia
+	Information Extraction and Text Mining from Web / Wikipedia
+	Author: Amruta Purandare
+	Date Last Modified: March 31, 2017
+
 
 Use python program <fetch-html.py> to fetch an HTML page from a given url,
 and convert it to plain-text format.
