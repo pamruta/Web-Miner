@@ -3,11 +3,11 @@
 
 # extracts prepositions from the output of dependendency parser
 # includes prepositions attached to simple or compound nouns
-# along with adjective modifiers, if any
+# along with the adjective modifiers, if any
 
-# e.g. daughter of greek-born actor john aniston
-# has a preposition "daughter-of" attached to compound-noun 
-# "greek-born actor john aniston"
+# e.g. "daughter of greek-born actor john aniston"
+# "nominated for golden globe award"
+# "starred opposite ben affleck"
 
 open(FILE, $ARGV[0]);
 while(<FILE>)
