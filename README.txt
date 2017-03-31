@@ -64,7 +64,7 @@ We have provided here scripts for Phrase and Relation Extraction using -
 
 [3] OpenIE: http://nlp.stanford.edu/software/openie.html
 
-	OpenIE (stands for Open Information Extraction) is already included in the CoreNLP library.
+	OpenIE (stands for Open Information Extraction) is already included in CoreNLP library.
 	Directory <open-ie> contains the following files:
 
 	=> run-openie.sh - this runs the Stanford OpenIE program to extract subject-verb-object
@@ -75,6 +75,5 @@ We have provided here scripts for Phrase and Relation Extraction using -
 	=> File Aniston-OpenIE-Output.txt shows phrases extracted by OpenIE on sample text file:
 	   Aniston.txt
 
-	Note: Presently, the coreference resolution is not handled, to resolve pronouns / references
-	like 'She', 'Her father' etc. There is an option to do so in Open-IE, but it takes longer
-	processing time and memory.
+	Note: Presently, the coreference resolution is not handled, to resolve pronouns or 
+	references like 'She', 'Her father' etc. There is an option to do so in Open-IE.
