@@ -39,15 +39,15 @@ We have provided here scripts for Phrase and Relation Extraction using -
 		Usage: perl ./phrase-extraction.pl PHRASE-PARSER-OUTPUT
 
 	=> Phrases extracted by <phrase-extraction.pl> on Aniston-Phrase-Parser-Output.txt
-	can be found in file: Aniston-Phrase-Table.txt
+	can be found in file: Aniston-Phrases.txt
 
 	Note: the output of <phrase-extraction.pl> is tab-separated and can be easily
 	exported to Excel or MySQL. Simple 'grep' command on this table will extract
 	phrases matching the given patterns. e.g. 
 
-	grep "\tnominated for " Aniston-Phrase-Table.txt
-	grep "\tmarried " Aniston-Phrase-Table.txt
-	grep "\tlived in " Aniston-Phrase-Table.txt
+	grep "\tnominated for " Aniston-Phrases.txt
+	grep "\tmarried " Aniston-Phrases.txt
+	grep "\tlived in " Aniston-Phrases.txt
 
 [2] Dependency Parser:
 
