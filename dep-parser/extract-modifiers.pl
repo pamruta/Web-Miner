@@ -3,7 +3,7 @@
 
 # extracts modifiers from the output of dependendency parser
 # this includes compound nouns, plus, the adjectives
-# attached to nouns / compounds
+# attached to simple-nouns or compounds
 
 open(FILE, $ARGV[0]);
 while(<FILE>)
@@ -12,10 +12,11 @@ while(<FILE>)
 	# blank line at the end of sentence
 	if(/^\s*$/)
 	{
+		# tokens modified by compounds / adjectives
 		for $ind1 (keys %modifier)
 		{
 			$mod = "";
-			# sorting tokens by index
+			# sorting modifiers by index
 			for $ind2 (sort keys %{$modifier{$ind1}})
 			{
 				$mod .= "$tokens[$ind2] ";
