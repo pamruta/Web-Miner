@@ -1,7 +1,8 @@
 
 # Usage: extract-compounds.pl dependency-parser-output
 
-# extracts compound nouns from the output of dependendency parser
+# extracts compound-nouns from the output of dependendency parser
+# e.g. "screen actors guild award", "primetime emmy award"
 
 open(FILE, $ARGV[0]);
 while(<FILE>)
