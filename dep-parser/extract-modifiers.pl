@@ -3,7 +3,7 @@
 
 # extracts modifiers from the output of dependendency parser
 # this includes compound nouns, plus, the adjectives
-# attached to simple-nouns or compounds
+# attached to simple and compound nouns
 
 open(FILE, $ARGV[0]);
 while(<FILE>)
@@ -44,7 +44,7 @@ while(<FILE>)
 			$tokens[$ind2] = $w2;
 		}
 
-		# compounds and adjectives
+		# storing compounds and adjectives
 		if($rel eq "compound" || $rel eq "amod")
 		{
 			$modifier{$ind1}{$ind2} = 1;
