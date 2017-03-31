@@ -10,10 +10,11 @@ while(<FILE>)
 	# blank line at the end of sentence
 	if(/^\s*$/)
 	{
+		# tokens modified by compounds
 		for $ind1 (keys %compound)
 		{
 			$comp = "";
-			# sorting tokens by index
+			# sorting modifiers by index
 			for $ind2 (sort keys %{$compound{$ind1}})
 			{
 				$comp .= "$tokens[$ind2] ";
