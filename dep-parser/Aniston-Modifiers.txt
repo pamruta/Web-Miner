@@ -1,0 +1,485 @@
+mixed reviews	7
+golden globe award	5
+jennifer aniston	5
+best actress	4
+screen actors guild award	4
+hollywood reporter	3
+net worth	3
+opening weekend	3
+next film	3
+romantic comedy	3
+earning forbes top actresses	3
+actor brad pitt	2
+21 million	2
+short film	2
+comedy series	2
+primetime emmy award	2
+swimming pool	2
+jason sudeikis	2
+los angeles	2
+rachel green	2
+production company echo films	2
+film cake	2
+will forte	2
+jason bateman	2
+owen wilson	2
+special event	2
+hollywood walk	2
+good girl	2
+sexiest woman	2
+150 million	2
+courteney cox	2
+paul rudd	2
+bruce almighty	2
+st. jude	2
+waldorf school	2
+research hospital	2
+health magazine	2
+a.v. club	2
+new york city	2
+charlie day	2
+romantic comedy mother	1
+reel moments film series	1
+maternal great-grandfathers	1
+performing arts	1
+online interest	1
+emmy nomination	1
+film critic roger ebert	1
+breakthrough film	1
+hospital emergency room-set	1
+mr. mrs. smith co-star angelina jolie	1
+bel-air estate	1
+tye sheridan	1
+huffington post	1
+comedy action romantic film	1
+increased visibility	1
+most powerful actresses	1
+first starring vehicle	1
+several part-time jobs	1
+low-budget film	1
+series dirt	1
+telemarketer waitress	1
+universal pictures	1
+younger paternal half-brother	1
+liz lemon	1
+sitcom cougar town	1
+producer kristin hahn	1
+same way	1
+dispiriting us$	1
+grandmother stella anastassakis	1
+heartbreakers music video	1
+box largest christmas day office	1
+spirited turn	1
+blessed relief	1
+neurotic days	1
+financial success	1
+negative review	1
+adam sandler	1
+noah baumbach	1
+comedy-drama marley	1
+bel-air neighborhood	1
+supporting actress	1
+chronic pain	1
+horrible bosses	1
+los angeles gas station	1
+timothy olyphant	1
+other films	1
+catherine shoard	1
+positive reviews	1
+director mike judge	1
+total worldwide	1
+movie ferris bueller	1
+third perfume	1
+daily telegraph	1
+wes anderson	1
+friends image	1
+body parts	1
+16.5 million	1
+independent films	1
+few months	1
+daniel barnz	1
+lowest point	1
+fall lineup	1
+most beautiful woman	1
+130 million	1
+outstanding guest actress	1
+four-day weekend	1
+quantum leap	1
+box office	1
+box office failure	1
+overlooked movies	1
+unsuccessful television shows	1
+free burma	1
+appropriate accolades	1
+heineken commercial	1
+entertaining office space	1
+clothes off our back	1
+27 million	1
+drug dealer	1
+female protagonist	1
+united states	1
+formulaic romantic movies	1
+mickey dawson	1
+tv star	1
+american actress nancy dow	1
+opposite ben stiller	1
+much younger girlfriend	1
+tijuana mexico	1
+best female lead	1
+commercial breaks	1
+featured player	1
+fake family	1
+off-broadway productions	1
+north carolina	1
+wide release	1
+tim robbins	1
+team aniston	1
+many critics	1
+hair care brand living proof	1
+jack huston	1
+greek-born actor john aniston	1
+four-year hiatus	1
+music video	1
+favorite couple	1
+third episode	1
+5 million	1
+jane claremont	1
+garry marshall	1
+mark boone junior	1
+colin farrell	1
+few years	1
+grassroots non-profit organization	1
+alden ehrenreich	1
+film production company plan b entertainment	1
+entertainment industry	1
+new spokesperson	1
+wrong anything	1
+nbc entertainment	1
+andy samberg	1
+tv movie camp cucamonga	1
+top-selling celebrity face	1
+divorce proceedings	1
+outstanding performance	1
+aveeno skincare	1
+january interview	1
+childhood incident	1
+8.4 million	1
+14.75 million	1
+feeding america	1
+television show	1
+gay man	1
+following months	1
+same year	1
+jim carrey	1
+inc. charity	1
+recent performances	1
+95 windows	1
+kelsey grammer	1
+kathryn hahn	1
+melissa etheridge	1
+cult film office space	1
+david wain	1
+film work	1
+critically acclaimed roles	1
+aggressive dentist	1
+japanese people	1
+eb medical research foundation	1
+second consecutive year	1
+fourth scent	1
+elizabeth arden	1
+victor kiriakis	1
+isla fisher	1
+jason opposite bateman	1
+tv actresses	1
+swimming pool scene	1
+ross geller	1
+lavish malibu wedding	1
+intense years	1
+saks fifth avenue key	1
+37 million	1
+rival tina harrod	1
+came polly	1
+funny bit	1
+female costars	1
+new face	1
+office christmas party	1
+thriller derailed	1
+marketing campaign	1
+178.8 million	1
+sam worthington	1
+u.s. box office	1
+gregory ellwood	1
+rape abuse incest national network	1
+broadcast film critics association award	1
+modern life	1
+tabloid magazines	1
+emirates airline	1
+day off	1
+emmy nominations	1
+cougar town	1
+vanguard award	1
+51.7 million	1
+few theaters	1
+200 million	1
+unglamorous cashier	1
+numerous media outlets	1
+nbc daytime drama	1
+w hollywood hotel	1
+keith phipps	1
+242.7 million	1
+titular tyrannical supervisors	1
+saturday night live	1
+john hawkes	1
+team jolie t-shirts	1
+35 million	1
+new perfume	1
+screenwriter justin theroux	1
+annual star salary top	1
+season premiere	1
+drama cake	1
+media reports	1
+31 million	1
+project a.l.s.	1
+ben stiller	1
+television comedy series	1
+most profitable actress	1
+recent rumors	1
+perfect woman	1
+robin wright	1
+lukewarm box-office reception	1
+italian immigrant	1
+romantic comedy-drama	1
+rhys ifans	1
+wild wild west	1
+television series musical	1
+worldwide recognition	1
+beautiful complicated relationship	1
+comic relief	1
+site review metacritic	1
+last seasons	1
+sexiest women list	1
+60-minute instructional video	1
+satiric fire	1
+guest star	1
+fortunate life	1
+ongoing philanthropic work	1
+comedy movie horrible bosses	1
+mos def	1
+latter film	1
+sundance film festival	1
+gerard butler	1
+269 million	1
+ginnifer goodwin	1
+unfunny adult cartoon	1
+married couple	1
+critical acclaim	1
+imogen poots	1
+budokan karate	1
+sarah gardner	1
+feature length	1
+low-budget drama friends	1
+three-bedroom home	1
+kevin bacon	1
+tenth final season	1
+toronto international film festival	1
+jennifer joanna aniston	1
+first television role	1
+heart smile	1
+dear life	1
+new mexico	1
+actor john aniston	1
+seth gordon	1
+trade magazine the hollywood reporter	1
+lifelong fear	1
+woody harrelson	1
+body shape	1
+animated movie storks	1
+actor telly savalas	1
+aniston guest	1
+united states television	1
+other roles	1
+22 million	1
+1.7 billion	1
+14 million	1
+kate mckinnon	1
+united states box office	1
+named perfume	1
+various commercials	1
+gisele bündchen	1
+major studio films	1
+sherman oaks	1
+actor vince vaughn	1
+204 million	1
+million-per-episode paycheck	1
+howard stern show	1
+intense speculation	1
+my friend	1
+will speck	1
+myeyelove campaign	1
+guinness world book	1
+yellow birds	1
+vince vaughn	1
+independent film	1
+foundation entertainment industry ambassador	1
+paramount pictures	1
+1960s tv series	1
+bike messenger	1
+director daniel barnz	1
+greatest female characters	1
+jennifer aniston goes viral	1
+rare hollywood success	1
+popular brand	1
+brooklyn decker	1
+william h. macy	1
+us$ box office grossing worldwide	1
+beverly hillbillies	1
+alex aniston	1
+second perfume	1
+female actor	1
+emotional turmoil	1
+anna kendrick	1
+older maternal half-brother	1
+1 billion	1
+dubai-based emirates airline	1
+drama society	1
+beautiful women	1
+other ancestry	1
+toxic levels	1
+first years	1
+film adaptation	1
+brad grey	1
+television viewers	1
+longtime therapist	1
+drink smartwater	1
+indie wire	1
+screen presence	1
+outstanding lead actress	1
+adriana barraza	1
+most people	1
+toni collette	1
+cancer research fund	1
+eif women	1
+leading role	1
+many tv commercials	1
+horror film leprechaun	1
+many celebrities	1
+short-lived series molloy	1
+title character	1
+peter bogdanovich	1
+ticket sales	1
+biggest box office success	1
+claire simmons	1
+haitian health care provider partners	1
+box office hits	1
+highest paid actresses	1
+american actress	1
+ken marino	1
+small amount	1
+cure campaign	1
+el faro	1
+sequel horrible bosses	1
+110 million	1
+childhood trauma-dies	1
+motion picture	1
+most beautiful women	1
+positive review	1
+warren littlefield	1
+jay mohr	1
+dolphin meat	1
+film picture perfect	1
+production budget	1
+rom-com rumor	1
+rare dramatic turn	1
+windows operating system	1
+actor justin theroux	1
+people magazine	1
+other charities	1
+batshit -lsb-	1
+kris kristofferson	1
+best dressed list	1
+kate hudson	1
+great discovery	1
+drama war film	1
+worldwide receipts	1
+plastic surgeon	1
+annual list	1
+friends co-star matthew perry	1
+muddling through	1
+jack donaghy	1
+earth day	1
+disposable picture perfect	1
+real fear	1
+first-ever gq woman	1
+judd apatow	1
+eric kohn	1
+high-profile relationship	1
+monica geller	1
+astringent woman	1
+television career	1
+jamie foxx	1
+actress nancy dow	1
+youtube video	1
+cancer show	1
+along came polly	1
+co-starring julia roberts	1
+ben affleck	1
+39.17 million	1
+lead actress	1
+world-wide reputation	1
+l'oreal hair products	1
+positive verdict	1
+tom petty	1
+television adaptation	1
+jennifer connelly	1
+forbes top earning actresses	1
+elmore leonard	1
+beautiful fortunate	1
+transcendental meditation practice	1
+original plans	1
+alexandre moors	1
+local elementary school	1
+independent spirit award	1
+refreshing flipside	1
+ensemble cast	1
+old college roommate	1
+guest roles	1
+penélope cruz	1
+day weekend	1
+forbes celebrity list	1
+publicity campaign	1
+eue/screen gems productions	1
+actress gwyneth paltrow	1
+golden globe awards	1
+comedy wanderlust	1
+recent film performance	1
+felicity huffman	1
+second ad	1
+popular television sitcom friends	1
+branding issues	1
+1 million	1
+limited release	1
+casa hogar sion	1
+modest box office success	1
+the bounty hunter	1
+romantic comedies	1
+complete performance	1
+john melick	1
+romantic comedy film	1
+august 2005 vanity fair magazine interview	1
+brad pitt	1
+numerous celebrities	1
+cove psa	1
+dated musician john mayer	1
+hollywood boulevard	1
+courteney cox arquette	1
+ferris bueller	1
+wilmington north	1
+top richest women	1
+no. position	1
+office manager	1
+fiorello h. laguardia high school	1
+instyle magazine	1
+david schwimmer	1
+hollywood plastic surgeons	1
+best friends	1
+josh gordon	1
