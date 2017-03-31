@@ -4,13 +4,15 @@
 Use python program <fetch-html.py> to fetch an HTML page from a given url,
 and convert it to plain-text format.
 
+	Usage: python fetch_html.py WEB_URL
+
 File Aniston.txt is created by script <fetch-html.py> by fetching Jennifer 
 Aniston's Wikipedia Page at: https://en.wikipedia.org/wiki/Jennifer_Aniston
 
 Download Stanford Parser and CoreNLP library from -
 
-CoreNLP Link - http://stanfordnlp.github.io/CoreNLP/download.html
-Stanford-Parser Link - http://nlp.stanford.edu/software/lex-parser.shtml
+	CoreNLP Link - http://stanfordnlp.github.io/CoreNLP/download.html
+	Stanford-Parser Link - http://nlp.stanford.edu/software/lex-parser.shtml
 
 We have provided here scripts for Phrase and Relation Extraction using -
 
@@ -18,12 +20,12 @@ We have provided here scripts for Phrase and Relation Extraction using -
 
 	Directory <phrase-parser> has the code to process the output of stanford-parser
 	in Phrase-Structure format. Description of these tags can be found here -
-	http://web.mit.edu/6.863/www/PennTreebankTags.html
+		http://web.mit.edu/6.863/www/PennTreebankTags.html
 
 	=> <run-phrase-parser.sh> runs stanford-parser to create the output in 
 	phrase-structure format.
 
-	Usage: ./run-phrase-parser.sh input-file
+		Usage: ./run-phrase-parser.sh input-file
 
 	=> Output of phrase-parser on Aniston.txt can be found in file: 
 	Aniston-Phrase-Parser-Output.txt
@@ -31,13 +33,13 @@ We have provided here scripts for Phrase and Relation Extraction using -
 	=> Perl script <phrase-extraction.pl> processes the parser-output by extracting
 	phrases from parsed text.
 
-	Usage: perl ./phrase-extraction.pl PHRASE-PARSER-OUTPUT
+		Usage: perl ./phrase-extraction.pl PHRASE-PARSER-OUTPUT
 
 	=> Phrases extracted by <phrase-extraction.pl> on Aniston-Phrase-Parser-Output.txt
 	can be found in file: Aniston-Phrase-Table.txt
 
 	Note: the output of <phrase-extraction.pl> is tab-separated and can be easily
-	exported to Excel or MySQL. Simple 'grep' command on this file will extract
+	exported to Excel or MySQL. Simple 'grep' command on this table will extract
 	phrases matching the given patterns. e.g. 
 
 	grep "\tnominated for " Aniston-Phrase-Table.txt
@@ -52,7 +54,7 @@ We have provided here scripts for Phrase and Relation Extraction using -
 	=> run-dep-parser.sh - runs stanford-parser on given text file, to produce the output
 	in dependency format.
 
-	Usage: ./run-dep-parser.sh input-file
+		Usage: ./run-dep-parser.sh input-file
 
 	=> Output of dependency parser on sample file Aniston.txt can be found in file:
 	Aniston-Dep-Parser-Output.txt
@@ -60,25 +62,24 @@ We have provided here scripts for Phrase and Relation Extraction using -
 	=> Perl script <binary-relations.pl> processes dependency-parser output by extracting
 	binary relations (dependency paths) from the parsed text.
 
-	Usage: per ./binary-relations.pl DEP-PARSER-OUTPUT
+		Usage: perl ./binary-relations.pl DEP-PARSER-OUTPUT
 
 	=> Output of <binary-relations.pl> on sample file: Aniston-Dep-Parser-Output.txt is
-	stored in file: Aniston-Dep-Paths.txt
+	stored in file: Aniston-Binary-Relations.txt
 
-	Note: The current version only extracts binary-relations as produced by dependency-parser,
+	Note: This script only extracts binary-relations as produced by dependency-parser,
 	so multi-word expressions like "screen actors guild award" are split into binary relations: 
-	"guild award", "screen award", "actors award" etc. We are working on addressing this issue
-	as our top-priority.
+	"guild award", "screen award", "actors award" etc.
 
 [3] OpenIE: http://nlp.stanford.edu/software/openie.html
 
 	OpenIE (stands for Open Information Extraction) is already included in the CoreNLP library.
-	Directory <open-ie> contains following files:
+	Directory <open-ie> contains the following files:
 
 	=> run-openie.sh - this runs the Stanford OpenIE program to extract subject-verb-object
 	   relations from the given text.
 
-	   Usage: ./run-openie.sh input-file
+	   	Usage: ./run-openie.sh input-file
 
 	=> File Aniston-OpenIE-Output.txt shows phrases extracted by OpenIE on sample text file:
 	   Aniston.txt
