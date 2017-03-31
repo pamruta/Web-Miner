@@ -10,11 +10,11 @@ while(<FILE>)
 	# blank line at the end of sentence
 	if(/^\s*$/)
 	{
-		# finding tokens which are modified 
+		# tokens modified by adjectives / compounds
 		for $ind1 (keys %modifier)
 		{
 			$mod = "";
-			# sorting tokens by index
+			# sorting modifiers by index
 			for $ind2 (sort keys %{$modifier{$ind1}})
 			{
 				$mod .= "$tokens[$ind2] ";
@@ -28,7 +28,7 @@ while(<FILE>)
 		# finding token indices with prepositional attachments
 		for $ind (keys %preposition)
 		{
-			# get each preposition attached to this index
+			# get all prepositions attached to this index
 			for $prep (@{$preposition{$ind}})
 			{
 				$freq_pattern{"$prep $tokens[$ind]"}++;
