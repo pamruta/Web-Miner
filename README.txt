@@ -46,8 +46,9 @@ We have provided here scripts for Phrase and Relation Extraction using -
 	phrases matching the given patterns. e.g. 
 
 	grep "\tnominated for " Aniston-Phrases.txt
-	grep "\tmarried " Aniston-Phrases.txt
+	grep "\tco-starred with " Aniston-Phrases.txt
 	grep "\tlived in " Aniston-Phrases.txt
+	grep "\tgraduated from " Aniston-Phrases.txt
 
 [2] Dependency Parser:
 
