@@ -1,5 +1,10 @@
-# Usage:
-# python fetch_html.py WEB_URL
+# fetches html page from a given web-url
+# and converts it to plain-text
+
+# Usage: python fetch-html.py WEB_URL
+
+# Author: Amruta Purandare
+# Last Updated: Apr 1, 2017
 
 # importing libraries
 from bs4 import BeautifulSoup
