@@ -62,8 +62,15 @@ We have provided here scripts for Phrase and Relation Extraction using -
 	=> Output of dependency parser on sample file Aniston.txt can be found in file:
 	Aniston-Dep-Parser-Output.txt
 
-	=> dep-parser/README.txt describes various scripts provided in ./dep-parser directory
-	to process the output of dependency-parser
+	=> README file in /dep-parser directory describes how to extract phrases of various
+	types (e.g. verb-object, prepositions, compound-nouns, adjective-modifiers) from
+	the output of dependency-parser.
+
+	Note: phrases like "daughter of greek-born actor john aniston", "won primetime emmy 
+	award", "founded production company echo films" have multiple relations, like 
+	adjectives, compounds, prepositions, verb-object all together. The scripts 
+	provided in /dep-parser directory handle these complexities by extracting longer
+	phrases from the simple binary-relations given by dependency-parser.
 
 [3] OpenIE: http://nlp.stanford.edu/software/openie.html
 
