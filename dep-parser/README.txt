@@ -2,9 +2,9 @@
 	Author: Amruta Purandare
 	Last Updated: Apr 1, 2017
 
-Description: This README file describes how to use various scripts
-provided here in /dep-parser directory to extract phrases from
-the output of stanford dependency-parser.
+Description: This README file describes various scripts provided in
+the current directory /dep-parser to extract phrases from the output 
+of stanford dependency-parser.
 
 To illustrate, we have created the output of dependency-parser on
 sample file, Aniston.txt. The script <run-dep-parser.sh> runs stanford
