@@ -7,7 +7,7 @@
 Use python program <fetch-html.py> to fetch an HTML page from a given url,
 and convert it to plain-text format.
 
-	Usage: python fetch_html.py WEB_URL
+	Usage: python fetch-html.py WEB_URL
 
 File Aniston.txt is created by script <fetch-html.py> by fetching Jennifer 
 Aniston's Wikipedia Page at: https://en.wikipedia.org/wiki/Jennifer_Aniston
