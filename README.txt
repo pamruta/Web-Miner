@@ -68,9 +68,9 @@ We have provided here scripts for Phrase and Relation Extraction using -
 
 	Note: phrases like "daughter of greek-born actor john aniston", "won primetime emmy 
 	award", "founded production company echo films" have multiple relations, like 
-	adjectives, compounds, prepositions, verb-object all together. The scripts 
+	adjectives, compounds, prepositions, verb-object combined together. The scripts 
 	provided in /dep-parser directory handle these complexities by extracting longer
-	phrases from the simple binary-relations given by dependency-parser.
+	phrases from the simple binary-relations provided by dependency-parser.
 
 [3] OpenIE: http://nlp.stanford.edu/software/openie.html
 
